@@ -5,8 +5,20 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: fredoka one;
 	color: #204f00;
+	-webkit-text-stroke: 0.05em pink;
 }
 
 p, a, li {
 	font-family: 'Inconsolata';
+	/*color: #AA98A9;*/
+}
+
+p {
+	background-color: #D0D7C4;
+	text-align: center;
+	border-radius: 0.5em;
+}
+
+p.bold {
+	border: 0.2em solid blue;
 }
