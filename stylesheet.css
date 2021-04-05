@@ -22,3 +22,7 @@ p {
 p.bold {
 	border: 0.2em solid blue;
 }
+
+p.proposition {
+	border: 0.2em solid green;
+}
