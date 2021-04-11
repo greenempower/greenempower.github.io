@@ -26,3 +26,6 @@ p.bold {
 p.proposition {
 	border: 0.2em solid green;
 }
+p.legislation {
+	border: 0.2em solid brown;
+}
