@@ -29,3 +29,7 @@ p.proposition {
 p.legislation {
 	border: 0.2em solid brown;
 }
+
+hr {
+	border: 0.2em solid black;
+}
