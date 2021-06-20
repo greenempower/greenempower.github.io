@@ -3,7 +3,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&display=swap');
 
 body {
-	background-color: #aeb999;
+	/* base color is #aeb999. */
+	background-color: rgb(87, 93, 77);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -13,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 	-webkit-text-stroke: 0.05em pink;
 	*/
 	font-family: 'Inter', sans-serif;
-	color: black;
+	color: pink;
 	font-weight: 900;
 	size: 800%
 }
@@ -22,10 +23,12 @@ p, a, li {
 	/*font-family: 'Inconsolata';*/
 	font-family: 'Inter', sans-serif;
 	/*color: #AA98A9;*/
+	color: #87ffaf;
 }
 
 p {
-	background-color: #D0D7C4;
+	/*background-color: rgb(104, 107.5, 98); */
+	background-color: #000000aa;
 	text-align: center;
 	border-radius: 0.5em;
 }
