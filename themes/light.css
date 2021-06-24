@@ -2,8 +2,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&display=swap');
 
+* {
+	text-align: center;
+}
+
 body {
 	background-color: #aeb999;
+}
+
+address {
+	overflow-wrap: break-word;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -13,9 +21,12 @@ h1, h2, h3, h4, h5, h6 {
 	-webkit-text-stroke: 0.05em pink;
 	*/
 	font-family: 'Inter', sans-serif;
-	color: black;
+	color: #71A7D5;
+	color: #680000;
 	font-weight: 900;
-	size: 800%
+	size: 800%;
+
+	margin-bottom: 0;
 }
 
 p, a, li {
@@ -42,5 +53,27 @@ p.legislation {
 }
 
 hr {
-	border: 0.2em solid black;
+	/*border: 0.2em solid black;*/
 }
+
+hr.t1 {
+	padding: 0;
+    width: 80%;
+}
+
+hr.t2 {
+        width: 70%;
+}
+
+hr.t3 {
+        width: 60%;
+}
+
+hr.t4 {
+        width: 50%;
+}
+
+hr.t5 {
+        width: 40%;
+}
+
