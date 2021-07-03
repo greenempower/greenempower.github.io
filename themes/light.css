@@ -14,6 +14,15 @@ address {
 	overflow-wrap: break-word;
 }
 
+:root {
+        --gem-green: #aeb999;
+		--green0: #728f3b;
+		--green1: #476a03;
+		--voxim-yellow: #ffff7f;
+		--soft-blue: #55aaff;
+		--black-red: #680000;
+}
+
 h1, h2, h3, h4, h5, h6 {
 	/*
 	font-family: 'Fredoka One', cursive;
@@ -22,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 	*/
 	font-family: 'Inter', sans-serif;
 	color: #71A7D5;
-	color: #680000;
+	color: var(--black-red);
 	font-weight: 900;
 	size: 800%;
 
