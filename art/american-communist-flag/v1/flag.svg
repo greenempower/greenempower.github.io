@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+
+<svg width="15cm" height="9cm" version="2.0" style="background-color:green" viewBox="7.5cm 4.5cm 15cm 9cm" xmlns="http://www.w3.org/2000/svg">
+
+	<metadata>
+		Created by Holden Green (holdengreen.org) of The Green Empower Organization (greenempower.org).
+		The hammer and sickle portion of this design was taken from the logo of Communist Party USA (https://www.cpusa.org). I found the design at (https://commons.wikimedia.org/wiki/File:CPUSA_logo.svg)
+
+		This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+		The licensing of this flag is subject to change if it becomes necessary.
+	</metadata>
+
+	 <rect width="15cm" height="9cm" fill="white"/>
+	 
+
+	<svg width="100%" height="100%" viewBox="0 0 15 9">
+		<polygon points="7.5,4.5 7.5,0 15,0" fill="red" />
+
+		<polygon points="7.5,4.5 15,9, 15,4.5" fill="red" />
+
+		<polygon points="7.5,4.5 7.5,9, 0,9" fill="red"/>
+
+		<polygon points="7.5,4.5, 0,0 0,4.5" fill="red" />
+	</svg>
+
+
+
+	 <circle cx="7.5cm" cy="4.5cm" r="2.7cm" fill="blue" stroke="blue" stroke-width="0.50cm"/>
+
+	 <svg viewBox="0 0 141.48128 142.03218" style="transform: translate(5.2cm, 2.2cm) scale(0.5, 0.5)" xmlns="http://www.w3.org/2000/svg">
+		<g transform="translate(-399.45,-309.12795)">
+			<path d="m429.07121,309.12888c-10.89159-.0616-22.28728,2.9404-33.43749,9.9375-.35067.22006-.66238.43938-1,.65625 3.70878-.82702 7.46737-1.46606 11.21875-1.90625 35.32325-4.14486 63.90624,22.10015 63.90624,51.25 0,10.52816-3.76763,20.32744-10.25,28.5625l-24.34375-24.25 14.90625-16.9375-25.78125-10.09375-38.37499,36.875 19.6875,19.1875 12.375-11.875 58.34374,57.34375 16.65625-16.9375-13.5625-13.5c8.25693-12.03806 13.26492-26.82373 14.09375-42.4375 1.35345-32.81271-28.85827-65.6739-64.4375-65.875zm-58.15624,26.125c-4.17059,4.40237-7.75528,9.36723-10.65625,14.75l7.21875,5.84375c-1.74818,3.47363-3.17438,7.11465-4.21875,10.9375l-9.34375-.0625c-1.18929,5.05455-1.84375,10.33208-1.84375,15.75 0,.76968.006,1.54896.0312,2.3125l9.25,2.28125c.28654,3.74031.92715,7.39216 1.875,10.90625l-8,5.0625c1.79428,5.71906 4.29682,11.12669 7.4375,16.09375l9-2.9375c2.18129,3.15358 4.67042,6.08013 7.40625,8.75l-4.625,8.25c4.59672,4.19942 9.76393,7.78833 15.375,10.625l6.125-7.3125c3.25523,1.48289 6.64923,2.65138 10.1875,3.53125l.0625,9.5625c4.69333,1.01385 9.56568,1.5625 14.56249,1.5625 1.1331,0 2.25535-.0395 3.375-.0937l2.34375-9.5625c3.62367-.36223 7.16072-1.04688 10.5625-2.03125l4.6875,8.40625c5.45453-1.74628 10.60898-4.14874 15.375-7.125l-6.125-6.46875-.53125-.5625-12.28125-13c-5.10463,2.19377-10.74784,3.40625-16.65625,3.40625-23.29197,0-42.15624-18.86426-42.15624-42.15625 0-10.74196 4.01246-20.55359 10.625-28l-12.59375-12.25-.4375-.4375-6.03125-6.03125z" fill="gold"/>
+		</g>
+	</svg>
+
+
+
+</svg>
