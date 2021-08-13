@@ -41,16 +41,31 @@ h1, h2, h3, h4, h5, h6 {
 	margin-bottom: 0;
 }
 
-p, a, li {
+p, a, li, blockquote, table, th, tr, td {
 	/*font-family: 'Inconsolata';*/
 	font-family: 'Inter';
 	/*color: #AA98A9;*/
 }
 
-p {
+p, blockquote, table {
 	background-color: #D0D7C4;
 	text-align: center;
 	border-radius: 0.5em;
+}
+
+table {
+	margin: auto;
+	border: 2px solid white;
+	margin-bottom: 0.5em;
+	margin-top: 0.5em;
+}
+
+tr, th, td {
+	border: 1px solid green;
+}
+
+thead {
+	background-color: pink;
 }
 
 p.bold {
