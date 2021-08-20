@@ -1,0 +1,69 @@
+{
+	"profiles": [
+		{
+			"name": "iaintnguyen",
+			"index": "linktr.ee/ainnguyen",
+			"tags": [
+				"sexy",
+				"cosplay",
+				"vietnamese"
+			]
+		},
+		{
+			"name": "comradebroccoli",
+			"index": "comradebroccoli.weebly.com",
+			"tags": [
+				"leftist",
+				"memes",
+				"repost"
+			]
+		},
+		{
+			"name": "suicidegirls",
+			"index": "https://allmylinks.com/suicidegirls",
+			"tags": [
+				"sexy",
+				"directory"
+			]
+		},
+		{
+			"name": "kikuo",
+			"index": "kikuo.jp",
+			"tags": [
+				"vocaloid",
+				"creator",
+				"musician",
+				"producer",
+				"animator"
+			]
+		},
+		{
+			"name": "wowaka",
+			"index": "en.wikipedia.org/wiki/Wowaka",
+			"tags": [
+				"japanese",
+				"vocaloid",
+				"musician"
+			]
+		},
+		{
+			"name": "Hakim"
+		},
+		{
+			"name": "Luna Oi"
+		},
+		{
+			"name": "Emerican Johnson"
+		},
+		{
+			"name": "JT Chapman"
+		},
+		{
+			"name": "Nothings",
+			"index": "http://nothings.org/",
+			"tags": [
+				"hacker"
+			]
+		}
+	]
+}
