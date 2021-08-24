@@ -1,0 +1,127 @@
+<h1>GEM Directory: Procedures</h1>
+
+<h2>Postale</h2>
+<ul>
+	<li><strong>Can I use my domain email address with Gmail?</strong>
+	<br>
+	Sure! Open Gmail and click on Settings &gt <a href="https://mail.google.com/mail/u/0/#settings/accounts">Accounts and Import</a> > Check email from other accounts > Add an email account. Enter your domain email address and follow the steps.
+
+	When asked to enter your username, enter your full domain email address again (that's including the @yourdomainname.com part). Other settings you'll need are listed <a href="https://postale.io/client">here</a>. Please note that Gmail only supports POP. (PORT 995) (POP Server: mail.postale.io)
+
+	 You can also find a guide from Google <a href="https://support.google.com/mail/answer/21289#settings">here</a>.
+	</li>
+</ul>
+
+<hr>
+
+<p>Show tooltips false on KDE to avoid miniature window popups when hovering over open applications.</p>
+
+<hr>
+
+<h2>Git</h2>
+<h3>Rebase a branch in git</h3>
+<code>git rebase -i HEAD~3 # or commit id rather than 3</code>
+<code>git reset HEAD~</code>
+<code>git rebase --continue</code>
+
+<h3>Sync local fork with upstream</h3>
+<code>git fetch upstream</code>
+<code>git reset --hard upstream/master</code>
+
+<h3>Add multiple urls to a remote</h3>
+<code>git remote set-url --add [remote name; ex. origin] [new upstream url]</code>
+
+<h3>Set head of a remote</h3>
+<code>git remote set-head</code>
+
+<hr>
+
+<h2>Scripts</h2>
+<h3>Working with images in bash using ffmpeg</h3>
+<code>
+for f in *.jpg; do ffmpeg -i $f -vf scale="iw/2:ih/2" out/$f; done
+</code>
+
+<h3>Half the res of 4k images and output them to out/copied/</h3>
+<pre><code>
+#!/usr/bin/bash
+
+for f in *.jpg
+do
+       width=$(identify -format '%w' $f)
+       height=$(identify -format '%h' $f)
+
+       if [[ $width -gt 3968 ]] || [[ $height -gt 3968 ]]
+       then
+               ffmpeg -i $f -vf scale="iw/2:ih/2" out/scaled/$f
+       else
+               cp $f out/copied/
+       fi
+done
+</code></pre>
+
+<hr>
+
+<h2>Android</h2>
+<h3>adb over wifi</h3>
+<p>On your workstation, update to the latest version of the <a href="https://developer.android.com/studio/releases/platform-tools">SDK Platform-Tools</a>.</p>
+<p>On the device, enable <a href="https://developer.android.com/studio/debug/dev-options">developer options</a>.</p>
+<p>Enable the <strong>Wireless debugging</strong> option.</p>
+<p>On the dialog that asks <strong>Allow wireless debugging on this network?</strong>, click <strong>Allow</strong>.</p>
+<p>Select <strong>Pair device with pairing code</strong>. Take note of the pairing code, IP address, and port number displayed on the device (see image).</p>
+<p>On your workstation, open a terminal and navigate to android_sdk/platform-tools.</p>
+<p>Run adb pair ipaddr:port. Use the IP address and port number from step 5.</p>
+<p>When prompted, enter the pairing code that you received in step 5. A message indicates that your device has been successfully paired.</p>
+<p>Now it is paired.</p>
+<code>abd connect [ipaddr]:[port]</code>
+
+<hr>
+
+<h2>Misc</h2>
+<h3>Copy file directly to clipboard</h3>
+<code>xclip -sel c &lt [input_file]</code>
+
+<hr>
+
+<h2>FFMPEG</h2>
+<h3>Compress a vid with little to no quality degradation</h3>
+<code>ffmpeg -i input.avi -c:v libx264 -crf 18 -preset veryslow -c:a copy out.mp4</code>
+
+<h3>Get media file stats, such as frame rate</h3>
+<code>ffmpeg -i [filename]</code>
+
+<h3>links</h3>
+<a href="https://superuser.com/questions/138331/using-ffmpeg-to-cut-up-video">using ffmpeg to cut up video</a>
+
+<a href="https://superuser.com/questions/277642/how-to-merge-audio-and-video-file-in-ffmpeg">how to merge audio and video file in ffmpeg</a>
+
+<hr>
+
+<h2>Disks</h2>
+
+<h3>Change ext disk label</h3>
+<code>e2label [/dev/XXX] [new label]</code>
+
+<h3>Find which programs are using a mounted disk device</h3>
+<code>lsof | grep [/media/whatever]</code>
+<p>Also, consider <code>umount -l</code> (lazy umount) to prevent new processes from using the drive while you clean up.</p>
+
+<h3>Links</h3>
+<a href="https://askubuntu.com/questions/1103569/how-do-i-change-the-label-reported-by-lsblk">how do I change the label reported by lsblk</a>
+
+<hr>
+
+<h2>Web Dev</h2>
+<h3>Run a simple web server</h3>
+<p>Good environment for testing your website before pushing upstream.</p>
+<pre><code>
+# If Python version returned above is 3.X
+# On Windows, try "python -m http.server" or "py -3 -m http.server"
+python3 -m http.server
+# If Python version returned above is 2.X
+python -m SimpleHTTPServer
+</pre></code>
+
+<blockquote cite="https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server">By default, this will run the contents of the directory on a local web server, on port 8000. You can go to this server by going to the URL localhost:8000 in your web browser. Here you'll see the contents of the directory listed — click the HTML file you want to run.</blockquote>
+
+<hr>

@@ -53,6 +53,10 @@ p, blockquote, table {
 	border-radius: 0.5em;
 }
 
+strong {
+	color: #ff06a8;
+}
+
 table {
 	margin: auto;
 	border: 2px solid white;
