@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+git push rad
+git push gitlab
+git push github
+git push bitbucket

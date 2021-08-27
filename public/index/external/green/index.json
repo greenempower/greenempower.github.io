@@ -1,0 +1,26 @@
+{
+	"green": [
+		{
+			"name": "Ecotricity",
+			"index": "https://www.ecotricity.co.uk/",
+			"local": "UK",
+			"description": "The first company in the UK to offer true 100% renewable energy.",
+			"tags": [
+				"utility",
+				"infrastructure",
+				"service"
+			]
+		},
+		{
+			"name": "Krystal",
+			"index": "https://krystal.uk/",
+			"local": "UK",
+			"description": "Honest, Reliable, Personal. A UK based internet hosting service literally powered by 100% green energy as it gets electricity from Ecotricity.",
+			"tags": [
+				"host",
+				"service",
+				"utility"
+			]
+		}
+	]
+}

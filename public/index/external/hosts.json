@@ -1,0 +1,68 @@
+{
+	"hosts": [
+		{
+			"name": "VDSina",
+			"index": "https://vdsina.ru/",
+			"local": "RU"
+		},
+		{
+			"name": "webtropia",
+			"index": "https://www.webtropia.com/",
+			"local": "DE"
+		},
+		{
+			"name": "iNET / Internet",
+			"index": "https://inet.vn",
+			"local": "VN"
+		},
+		{
+			"name": "Profit Server",
+			"index": "https://profitserver.net/",
+			"local": "RU"
+		},
+		{
+			"name": "Getspace",
+			"index": "https://getspace.ie",
+			"local": "IE",
+			"notes": "VPS is too expensive, but they've got some cool other services. You can easily sign up and get 50GB drive space free."
+		},
+		{
+			"name": "Resellers Panel",
+			"index": "https://www.resellerspanel.com/",
+			"local": "US",
+			"notes": "Nothing to see in terms of VPS, but there is an intriguing data hosting plan with \"Unlimited SSD Storage, 100 E-mail Accounts, Ulimited Monthly Traffic\" for $2.50/mo."
+		},
+		{
+			"name": "TIME4VPS",
+			"index": "https://www.time4vps.com",
+			"local": "LT",
+			"notes": "Entry VPS option would be a better deal if they didn't encrease the price at renewal. However, their 1.49 EUR/mo. 'Storage VPS' plan looks stellar. It notably offers 256GB of storage and 2TB of bandwidth along with a tiny bit of CPU and RAM so it does seem to be a full VPS."
+		},
+		{
+			"name": "HeroHosty",
+			"index": "https://herohosty.com",
+			"local": "IN",
+			"notes": "Their VPS offerings are too expensive, but their entry level 'Shared Hosting' and 'Cloud Hosting' packages are cheap (around the ~$1.00 mark) so that might be useful. I can't desirn their restrictions."
+		},
+		{
+			"name": "Timeweb",
+			"index": "https://timeweb.com",
+			"local": "RU",
+			"notes": "Good pricing on VPS."
+		},
+		{
+			"name": "KRYSTAL",
+			"id": "krystal",
+			"index": "https://krystal.uk",
+			"local": "UK",
+			"notes": "Prices aren't what we are looking for but the company seems just fabulous. They are 100% green energy powered and human centric. If you've got a little extra money then definitely consider this company."
+		},
+		{
+			"name": "VIRMACH",
+			"id": "virmach",
+			"index": "https://virmach.com",
+			"local": "US",
+			"notes": "Good and to the point. VPS starting at $1/mo."
+		}
+	]
+}
