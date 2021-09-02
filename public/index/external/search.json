@@ -1,0 +1,10 @@
+{
+	"engines": [
+		{
+			"name": "Cốc Cốc",
+			"id": "coccoc",
+			"index": "https://coccoc.com/search",
+			"local": "VN"
+		}
+	]
+}

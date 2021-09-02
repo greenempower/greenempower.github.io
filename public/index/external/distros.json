@@ -3,10 +3,14 @@
 		{
 			"name": "AlmaLinux",
 			"index": "https://almalinux.org/"
-		}
+		},
 		{
 			"name": "PureOS",
 			"index": "https://pureos.net/"
+		},
+		{
+			"name": "Antix",
+			"index": "https://antixlinux.com/"
 		}
 	]
 }

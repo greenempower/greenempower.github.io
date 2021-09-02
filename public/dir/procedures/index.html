@@ -131,3 +131,14 @@ python -m SimpleHTTPServer
 	<p>"Nevermind, just figured it out. Notifcations tab has a little settings thing just for that tab."</p>
 
 <hr>
+
+<h2>Metadata Handling</h2>
+<h3>Exif Handling</h3>
+	<p>Get metadata of an image: <code>exiftool [imagename.ext]</code></p>
+	<p>Wipe metadata of an image: <code>mogrify -strip [imagename.ext]</code></p>
+	
+<h3>Host Records / DNS Data</h3>
+<p>All possible records: <code>host -a [example.com]</code></p>
+<p>Selective: <code>host -t [mx/ns/txt/cname/soa] [example.com]</code></p>
+
+<hr>

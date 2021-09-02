@@ -1,0 +1,505 @@
+{
+	"cloud": [
+		{
+			"name": "VDSina",
+			"index": "https://vdsina.ru/",
+			"local": "RU"
+		},
+		{
+			"name": "webtropia",
+			"index": "https://www.webtropia.com/",
+			"local": "DE"
+		},
+		{
+			"name": "iNET / Internet",
+			"id": "inet",
+			"index": "https://inet.vn",
+			"local": "VN",
+			"notes": "Decent pricing and wide spectrum offerings."
+		},
+		{
+			"name": "Profit Server",
+			"index": "https://profitserver.net/",
+			"local": "RU"
+		},
+		{
+			"name": "Getspace",
+			"index": "https://getspace.ie",
+			"local": "IE",
+			"notes": "VPS is too expensive, but they've got some cool other services. You can easily sign up and get 50GB drive space free."
+		},
+		{
+			"name": "Resellers Panel",
+			"index": "https://www.resellerspanel.com/",
+			"local": "US",
+			"notes": "Nothing to see in terms of VPS, but there is an intriguing data hosting plan with \"Unlimited SSD Storage, 100 E-mail Accounts, Ulimited Monthly Traffic\" for $2.50/mo."
+		},
+		{
+			"name": "TIME4VPS",
+			"index": "https://www.time4vps.com",
+			"local": "LT",
+			"notes": "Entry VPS option would be a better deal if they didn't encrease the price at renewal. However, their 1.49 EUR/mo. 'Storage VPS' plan looks stellar. It notably offers 256GB of storage and 2TB of bandwidth along with a tiny bit of CPU and RAM so it does seem to be a full VPS."
+		},
+		{
+			"name": "HeroHosty",
+			"index": "https://herohosty.com",
+			"local": "IN",
+			"notes": "Their VPS offerings are too expensive, but their entry level 'Shared Hosting' and 'Cloud Hosting' packages are cheap (around the ~$1.00 mark) so that might be useful. I can't desirn their restrictions."
+		},
+		{
+			"name": "Timeweb",
+			"index": "https://timeweb.com",
+			"local": "RU",
+			"notes": "Good pricing on VPS."
+		},
+		{
+			"name": "KRYSTAL",
+			"id": "krystal",
+			"index": "https://krystal.uk",
+			"local": "UK",
+			"notes": "Prices aren't what we are looking for but the company seems just fabulous. They are 100% green energy powered and human centric. If you've got a little extra money then definitely consider this company."
+		},
+		{
+			"name": "VIRMACH",
+			"id": "virmach",
+			"index": "https://virmach.com",
+			"local": "US",
+			"notes": "Good and to the point. VPS starting at $1/mo."
+		},
+		{
+			"name": "HOSTENS",
+			"id": "hostens",
+			"index": "https://www.hostens.com",
+			"local": "Lithuania",
+			"about": "https://www.hostens.com/about-us",
+			"notes": "Competitively priced VPS and VPS storage with good value. Both need to be reserved for 3 years to get best value. VPS: $1.80/mo for 20GB disk, 4TB bandwidth, 2GB RAM. VPS Storage: 256GB disk, 2TB badnwith. In about they show their team and operation and looks good.",
+			"tags": [
+				"storage",
+				"cheap"
+			]
+		},
+		{
+			"name": "frantech",
+			"id": "frantech",
+			"about": "https://twitter.com/FrantechCA",
+			"index": "https://my.frantech.ca",
+			"notes": "Frantech offers a couple of cheap and very high value VPS services hosted in America and Luxembourg. All of their VPSs are powered by next-gen Ryzen 3900X CPUs. The initial VPS offering is priced at $2/mo and is a great value given it's features. Notably it comes with 10GB NVME storage, an IPv4 address + /48 IPv6 and relatively high unmetered bandwidth. Frantech additionally offers an attachable block storage service. For $1.25/mo you add an additional 256GB storage to your VPS or buy even more if you like. Frantech is seemingly the highest value service I've come across so far."
+		},
+		{
+			"name": "HIOX India",
+			"id": "hiox",
+			"index": "https://www.hioxindia.com",
+			"local": "IN"
+		},
+		{
+			"name": "Advika Web",
+			"id": "advika",
+			"index": "https://www.advikaweb.com",
+			"local": "IN"
+		},
+		{
+			"name": "vHost",
+			"id": "vhost",
+			"index": "https://vhost.vn",
+			"local": "VN",
+			"notes": "Best price/deal I've found so far in Vietnam."
+		},
+		{
+			"name": "AZDIGI",
+			"id": "azdigi",
+			"index": "https://azdigi.com",
+			"local": "VN",
+			"notes": "Cheapest offering is out of stock, but pricing is competitive especially if they offer long term reservations for that initial offering."
+		},
+		{
+			"name": "NHANHOA",
+			"id": "nhanhoa",
+			"index": "https://nhanhoa.com",
+			"local": "VN",
+			"notes": "Seemingly competitive pricing."
+		},
+		{
+			"name": "BKNS",
+			"id": "bkns",
+			"index": "https://www.bkns.vn",
+			"local": "VN",
+			"notes": "Decent pricing."
+		},
+		{
+			"name": "HOSTVN",
+			"id": "hostvn",
+			"index": "https://hostvn.net",
+			"local": "VN",
+			"notes": "Good reserved pricing starting at 2,835,000 VND for 3 years."
+		},
+		{
+			"name": "vinahost",
+			"id": "vinahost",
+			"index": "https://vinahost.vn",
+			"local": "VN",
+			"notes": "Company looks good with decent pricing and a wide offering of services. Investigating to see what there long term reservation options are."
+		},
+		{
+			"name": "BIZMAC",
+			"id": "bizmac",
+			"index": "https://bizmac.com",
+			"local": "VN",
+			"notes": "Supports Alma, Fedora, Gentoo, Mint, Suse and BSD. Pricing isn't so good."
+		},
+		{
+			"name": "HOSTINGVIET",
+			"id": "hostingviet",
+			"index": "https://hostingviet.vn",
+			"local": "VN",
+			"notes": "VPS: 3900k VND for 5 year reservation."
+		},
+		{
+			"name": "DIGISTAR",
+			"id": "digistar",
+			"index": "https://www.digistar.vn",
+			"local": "VN",
+			"notes": "Interesting VoIP call server service.; they have data services that are innaccesible via bottons."
+		},
+		{
+			"name": "VDATA",
+			"id": "vdata",
+			"index": "https://vdata.vn",
+			"local": "VN",
+			"notes": "3060k VND for 3 year reservation. Site has general knowledge resources."
+		},
+		{
+			"name": "panzura",
+			"id": "panzura",
+			"index": "https://panzura.com/",
+			"local": "US",
+			"description": "They offer a new and supposedly innovative global cloud/internet file system service primarily to replace local NAS in a typical org.",
+			"notes": "they seem to be a sort of mega consultant to large companies",
+			"tags": [
+				"storage"
+			]
+		},
+		{
+			"name": "VIETNIX",
+			"id": "vietnix",
+			"index": "https://vietnix.vn",
+			"local": "VN",
+			"services": [
+				"vps"
+			],
+			"plans": [
+				{
+					"terms": {
+						"period": "1mo",
+						"price": "190000",
+						"currency": "VND"
+					},
+					"tags": [
+						"cheapest"
+					]
+				}
+			]
+		},
+		{
+			"name": "PAVIETNAM.VN",
+			"id": "pavietnam",
+			"index": "https://www.pavietnam.vn",
+			"local": "VN",
+			"notes": "decent price/performance and memory ratio",
+			"services": [
+				"vps"
+			],
+			"features": [
+				"SAS"
+			],
+			"plans": [
+				{
+					"terms": {
+						"period": "3yr",
+						"price": "6912000",
+						"currency": "VND"
+					},
+					"tags": [
+						"cheapest"
+					]
+				}
+			]
+		},
+		{
+			"name": "LONG VAN SYSTEM",
+			"id": "longvan",
+			"index": "https://longvan.net",
+			"local": "VN",
+			"services": [
+				"storage",
+				"vps",
+				"gpu"
+			],
+			"notes": "Only option we resonably priced cloud storage that I've found in Vietnam."
+		},
+		{
+			"name": "VSIS.NET",
+			"id": "vsis",
+			"index": "https://vsis.net",
+			"local": "VN",
+			"services": [
+				"vps"
+			]
+		},
+		{
+			"name": "SIEUTOCVIET",
+			"id": "sieutocviet",
+			"index": "https://sieutocviet.com",
+			"local": "VN",
+			"services": [
+				"vps"
+			],
+			"cheapest": [200000, "VND"]
+		},
+		{
+			"name": "BKHOST",
+			"id": "bkhost",
+			"index": "https://bkhost.vn",
+			"local": "VN",
+			"notes": "decent perks for reservations",
+			"services": [
+				"vps"
+			],
+			"cheapest": [76300, "VND"]
+		},
+		{
+			"name": "THEANH GROUP",
+			"id": "theanhgroup",
+			"index": "https://theanhgroup.com/",
+			"local": "VN", "cheapest": [120000, "VND"] },
+		{
+			"name": "TINOHOST",
+			"id": "tinohost",
+			"index": "https://tinohost.com",
+			"local": "VN",
+			"cheapest": [79000, "VND"],
+			"notes": "idk"
+		},
+		{
+			"name": "ONET.VN",
+			"id": "onet",
+			"index": "https://onet.vn",
+			"local": "VN",
+			"cheapest": [84000, "VND"],
+			"notes": "they seriously throttle traffic in and out of Vietnam"
+		},
+		{
+			"name": "Vietnam VPS",
+			"id": "123host.vn",
+			"index": "https://123host.vn",
+			"local": "VN",
+			"cheapest": [108000, "VDN"],
+			"notes": "Pride themselves on being all Vietnamese and providing english support."
+		},
+		{
+			"name": "MaxServer",
+			"id": "maxserver",
+			"index": "https://maxserver.com",
+			"local": "VN",
+			"cheapest": [75900, "VND"],
+			"services": [
+				"vps"
+			]
+		},
+		{
+			"name": "VDO",
+			"id": "vdodata",
+			"index": "https://vdodata.vn/",
+			"local": "VN",
+			"cheapest": [100000, "VND"],
+			"services": [
+				"vps",
+				"call-center",
+				"gpu"
+			]
+		},
+		{
+			"name": "CNV",
+			"id": "cnv",
+			"index": "https://cnv.com.vn",
+			"local": "VN",
+			"services": [
+				"storage"
+			]
+		},
+		{
+			"name": "tnd",
+			"id": "tnd",
+			"index": "https://www.tnd.vn",
+			"local": "VN",
+			"cheapest": [125000, "VND"],
+			"services": [
+				"vps"
+			],
+			"notes": "staff are all white"
+		},
+		{
+			"name": "KDATA",
+			"id": "kdata",
+			"index": "https://kdata.vn",
+			"local": "VN",
+			"services": [
+				"vps",
+				"storage"
+			]
+		},
+		{
+			"name": "POWERNET",
+			"id": "powernet",
+			"index": "https://powernet.vn/",
+			"local": "VN",
+			"services": [
+				"vps",
+				"minecraft"
+			]
+		},
+		{
+			"name": "LANIT",
+			"id": "lanit",
+			"index": "https://www.lanit.com.vn",
+			"local": "VN",
+			"cheapest": [80000, "VND"],
+			"services": [
+				"vps",
+				"gpu"
+			]
+		},
+		{
+			"name": "PhotonVPS",
+			"id": "photonvps",
+			"index": "https://www.photonvps.com",
+			"local": "US",
+			"notes": "they've got some good locations"
+		},
+		{
+			"name": "SHOCK HOSTING",
+			"id": "shockhosting",
+			"index": "https://shockhosting.net",
+			"local": "US",
+			"notes": "They offer 30GB SSD or 300GB HDD.",
+			"services": [
+				"ddos"
+			],
+			"tags": [
+				"HDD"
+			]
+		},
+		{
+			"name": "NEXUS BYTES",
+			"id": "nexusbytes",
+			"index": "https://nexusbytes.com",
+			"local": "US",
+			"notes": "500GB HDD + 2.5TB bandwidth for $3.20",
+			"services": [
+				"storage"
+			],
+			"tags": [
+				"cheap"
+			]
+		},
+		{
+			"name": "vpsdime",
+			"id": "vpsdime",
+			"index": "https://vpsdime.com",
+			"notes": "seem to have good prices on storage and compute; they however seem to by discontinued",
+			"services": [
+				"storage",
+				"compute"
+			],
+			"tags": [
+				"cheap",
+				"discontinued"
+			]
+		},
+		{
+			"name": "HostHatch",
+			"id": "hosthatch",
+			"index": "https://hosthatch.com",
+			"value-index": 0.5,
+			"services": [
+				"storage"
+			]
+		},
+		{
+			"name": "DEDIPATH",
+			"id": "dedipath",
+			"index": "https://dedipath.com",
+			"value-index": "0.7"
+		},
+		{
+			"name": "GOZEN HOST",
+			"id": "gozenhost",
+			"index": "https://gozenhost.com",
+			"notes": "entriguing",
+			"services": [
+				"ddos"
+			]
+		},
+		{
+			"name": "securedragon",
+			"id": "securedragon",
+			"index": "https://securedragon.net/",
+			"local": "US",
+			"cheapest": [1, "USD"] ,
+			"services": [
+				"storage",
+				"vps"
+			]
+			"tags": [
+				"cheap"
+			]
+		},
+		{
+			"name": "FTPiT",
+			"id": "ftpit",
+			"index": "https://www.ftpit.com",
+			"cheapest": [2, "USD"],
+			"notes": "OpenVZ options have some good value for the price on cores and storage"
+		},
+		{
+			"index": "http://www.hyperexpert.com",
+			"cheapest": [1, "USD"]
+		},
+		{
+			"index": "https://anynode.net/",
+			"tags": [
+				"cheap"
+			]
+		},
+		{
+			"index": "https://www.cyberonedata.com",
+			"tags": [
+				"bandwidth"
+			]
+		},
+		{
+			"index": "https://www.spryservers.net/",
+			"tags": [
+				"HDD",
+				"IPv6/64"
+			]
+		},
+		{
+			"name": "WSWD",
+			"id": "wswd",
+			"index": "https://wswd.net",
+			"notes": "decent pricing and seems like a solid all around service",
+			"services": [
+				"vps",
+				"storage",
+				"registrar"
+			],
+			"tags": [
+				"featurefull"
+			]
+		},
+		{
+			"index": "https://bazasoft.com",
+			"notes": "good deal on memories"
+		}
+	]
+}

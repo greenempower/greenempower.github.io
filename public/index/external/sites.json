@@ -1,0 +1,22 @@
+{
+	"sites": [
+		{
+			"name": "InfluenceMap",
+			"index": "https://influencemap.org/",
+			"description": "InfluenceMap is an independent think tank that provides data and analysis on how business and finance are affecting the climate crisis. We place great importance on evidence-based assessment using reliable data and rigorous methodologies."
+		},
+		{
+			"name": "LOWENDBOX",
+			"index": "https://lowendbox.com"
+		},
+		{
+			"name": "Riseup",
+			"index": "https://riseup.net",
+			"tags": [
+				"leftist",
+				"services",
+				"vpn"
+			]
+		}
+	]
+}
