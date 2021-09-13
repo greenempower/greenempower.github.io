@@ -1,0 +1,30 @@
+{
+	"orgs": [
+		{
+			"name": "Politiwatch",
+			"index": "https://politiwatch.org/"
+		},
+		{
+			"name": "CODE CORPS",
+			"index": "https://www.codecorps.org/"
+		},
+		{
+			"name": "Union Base",
+			"index": "https://unionbase.org/"
+		},
+		{
+			"name": "Personal Genome Project",
+			"index": "https://www.personalgenomes.org/",
+			"sites": [
+				"https://my.pgp-hms.org"
+			],
+			"pages": [
+				"https://my.pgp-hms.org/public_genetic_data"
+			]
+		},
+		{
+			"name": "Color Of Change",
+			"index": "https://colorofchange.org/"
+		}
+	]
+}

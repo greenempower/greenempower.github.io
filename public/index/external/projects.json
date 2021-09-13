@@ -1,0 +1,13 @@
+{
+	"projects": [
+		{
+			"name": "Spoke",
+			"org": "MoveOnOrg",
+			"index": "https://github.com/MoveOnOrg/Spoke"
+		},
+		{
+			"name": "resistbot",
+			"index": "https://resist.bot/"
+		}
+	]
+}

@@ -64,7 +64,13 @@
 			"id": "virmach",
 			"index": "https://virmach.com",
 			"local": "US",
-			"notes": "Good and to the point. VPS starting at $1/mo."
+			"notes": "Good and to the point. VPS starting at $1/mo.",
+			"server-locations": [
+				"San Jose"
+			],
+			"tags": [
+				"custom-iso"
+			]
 		},
 		{
 			"name": "HOSTENS",
@@ -72,10 +78,11 @@
 			"index": "https://www.hostens.com",
 			"local": "Lithuania",
 			"about": "https://www.hostens.com/about-us",
-			"notes": "Competitively priced VPS and VPS storage with good value. Both need to be reserved for 3 years to get best value. VPS: $1.80/mo for 20GB disk, 4TB bandwidth, 2GB RAM. VPS Storage: 256GB disk, 2TB badnwith. In about they show their team and operation and looks good.",
+			"notes": "Competitively priced VPS and VPS storage with good value. Both need to be reserved for 3 years to get best value. VPS: $1.80/mo for 20GB disk, 4TB bandwidth, 2GB RAM. VPS Storage: 256GB disk, 2TB badnwith. In about they show their team and operation and looks good. Countainter VPS is priced at $1.20/mo, but it is questionable since it offers half the bandwidth and slower processors.",
 			"tags": [
 				"storage",
-				"cheap"
+				"cheap",
+				"no-kyc"
 			]
 		},
 		{
@@ -83,7 +90,11 @@
 			"id": "frantech",
 			"about": "https://twitter.com/FrantechCA",
 			"index": "https://my.frantech.ca",
-			"notes": "Frantech offers a couple of cheap and very high value VPS services hosted in America and Luxembourg. All of their VPSs are powered by next-gen Ryzen 3900X CPUs. The initial VPS offering is priced at $2/mo and is a great value given it's features. Notably it comes with 10GB NVME storage, an IPv4 address + /48 IPv6 and relatively high unmetered bandwidth. Frantech additionally offers an attachable block storage service. For $1.25/mo you add an additional 256GB storage to your VPS or buy even more if you like. Frantech is seemingly the highest value service I've come across so far."
+			"local": "CA",
+			"notes": "Frantech offers a couple of cheap and very high value VPS services hosted in America and Luxembourg. All of their VPSs are powered by next-gen Ryzen 3900X CPUs. The initial VPS offering is priced at $2/mo and is a great value given it's features. Notably it comes with 10GB NVME storage, an IPv4 address + /48 IPv6 and relatively high unmetered bandwidth. Frantech additionally offers an attachable block storage service. For $1.25/mo you add an additional 256GB storage to your VPS or buy even more if you like. Frantech is seemingly the highest value service I've come across so far.",
+			"tags": [
+				"no-kyc"
+			]
 		},
 		{
 			"name": "HIOX India",
@@ -386,6 +397,9 @@
 			],
 			"tags": [
 				"HDD"
+			],
+			"server-locations": [
+				"Los Angeles, CA"
 			]
 		},
 		{
@@ -399,6 +413,9 @@
 			],
 			"tags": [
 				"cheap"
+			],
+			"server-locations": [
+				"Los Angeles, US"
 			]
 		},
 		{
@@ -444,6 +461,10 @@
 			"id": "securedragon",
 			"index": "https://securedragon.net/",
 			"local": "US",
+			"notes": "these guys seem cheap practical and transparent. they even allow you to test their network at drgn.biz before buying.",
+			"pages": [
+				"http://drgn.biz/"
+			],
 			"cheapest": [1, "USD"] ,
 			"services": [
 				"storage",
@@ -458,7 +479,10 @@
 			"id": "ftpit",
 			"index": "https://www.ftpit.com",
 			"cheapest": [2, "USD"],
-			"notes": "OpenVZ options have some good value for the price on cores and storage"
+			"notes": "OpenVZ options have some good value for the price on cores and storage",
+			"server-locations": [
+				"Los Angeles"
+			]
 		},
 		{
 			"index": "http://www.hyperexpert.com",
@@ -466,6 +490,9 @@
 		},
 		{
 			"index": "https://anynode.net/",
+			"server-locations": [
+				"Las Vegas"
+			],
 			"tags": [
 				"cheap"
 			]
@@ -500,6 +527,131 @@
 		{
 			"index": "https://bazasoft.com",
 			"notes": "good deal on memories"
+		},
+		{
+			"name": "VPS Cheap",
+			"index": "https://www.vpscheap.net/",
+			"tags": [
+				"cheap",
+				"unmetered"
+			]
+		},
+		{
+			"name": "Router Hosting",
+			"index": "https://www.routerhosting.com",
+			"local": "US",
+			"server-locations": [
+				"San Francisco"
+			],
+			"distros": [
+				"arch"
+			]
+		},
+		{
+			"name": "Prgmr",
+			"index": "https://prgmr.com",
+			"local": "US",
+			"notes": "I like it. They say 'We don't assume you are stupid. Since 2005.' and they let you run arch.",
+			"distros": [
+				"arch"
+			],
+			"currencies": [
+				"$BTC"
+			]
+		},
+		{
+			"index": "https://www.kimsufi.com"
+		},
+		{
+			"index": "http://telekommunisten.net/"
+		},
+		{
+			"index": "cloud.oracle.com",
+			"about": [
+				"https://www.reddit.com/r/selfhosted/comments/m3uhqy/psa_stay_away_from_oracle_cloud/"
+			]
+		},
+		{
+			"index": "https://prohoster.info",
+			"notes": "website is being badly translated but seems like a potentially good deal",
+			"local": "RU"
+		},
+		{
+			"index": "https://contabo.com",
+			"notes": "good value",
+			"local": "DE"
+		},
+		{
+			"index": "https://zap-hosting.com",
+			"notes": "you can pay with Bitcoin",
+			"local": "DE"
+		},
+		{
+			"index": "https://www.webtropia.com",
+			"notes": "low introductory and good network specs",
+			"local": "DE"
+		},
+		{
+			"index": "https://www.1blu.de",
+			"local": "DE"
+		},
+		{
+			"index": "https://www.hetzner.com",
+			"local": "DE",
+			"notes": "high 20+ bandwidth",
+			"tags": [
+				"registrar"
+			]
+		},
+		{
+			"index": "https://www.netcup.eu/",
+			"local": "DE",
+			"notes": "cheap vps option with TONS of network capacity but storage is expensive",
+			"tags": [
+				"registrar"
+			],
+			"pages": [
+				"https://www.netcup.eu/vserver/storagespace.php"
+			],
+			"distros": [
+				"arch"
+			]
+		},
+		{
+			"index": "https://www.hosting.de",
+			"tags": [
+				"registrar"
+			]
+		},
+		{
+			"index": "https://hosteons.com",
+			"local": "SG"
+		},
+		{
+			"index": "https://hostmaze.com",
+			"local": "RO",
+			"notes": "cheap with good bandwidth. they accept bitcoin and open all ports"
+		},
+		{
+			"index": "https://ihost24.com",
+			"local": "RO",
+			"notes": "20TB bandwidth"
+		},
+		{
+			"index": "https://www.nxthost.com",
+			"local": "RO",
+			"notes": "potentially fast network speed"
+		},
+		{
+			"index": "https://serverastra.com",
+			"local": "HU",
+			"notes": "good network"
+		},
+		{
+			"index": "https://www.ramnode.com/",
+			"tags": [
+				"no-kyc"
+			]
 		}
 	]
 }

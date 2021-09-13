@@ -1,0 +1,6 @@
+productivity improvements
+miniature XML; easier on human editing and reading
+{
+	<img> [example.com/ico.jpg]:
+	- 5mm wide
+}

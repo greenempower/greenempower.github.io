@@ -1,0 +1,28 @@
+People:
+- Fred Hampton
+
+develop our patron saint - maybe a couple
+{
+	last names are green, gem or some iteration of that
+	lady's hair is red
+	guys hair is greenish
+	both in their prime (maybe 30 or so) and immortal
+	both 5'8 or so and equal
+	both fit with above average body mass
+	both beautiful
+	his hair is a bit curly
+	red tinted skin
+}
+expand on GEM's vocaloid activities and output
+
+migrate to decentralized platforms such as IPFS
+migrate to peer production license
+
+restful interface at rest.greenempower.org or /rest/.
+- Useful for storing information about the org such as addresses or DNS mappings
+
+design a code (html) generation system, probably within GMEX
+Make a sitemap
+Make an auto generated RSS feed (XML file)
+
+Autogen basic timestamps for everything

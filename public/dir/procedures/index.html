@@ -141,4 +141,77 @@ python -m SimpleHTTPServer
 <p>All possible records: <code>host -a [example.com]</code></p>
 <p>Selective: <code>host -t [mx/ns/txt/cname/soa] [example.com]</code></p>
 
+
+<h2>Vector Manipulation</h2>
+<h3>Convert Colored Raster Bitmap Image Into SVG</h3>
+<p>Start Inkscape.</p>
+<p><strong>File > Import</strong>: Import your bitmap.</p>
+<p>Size the bitmap and document accordingly using the panels on the right. (Object Properties and Document Properties). Best if document dimensions and object dimensions are exactly the same using atleast one whole number dimension and the object should be at X:0 and Y:0 at the top panel. Bitmap object needs to be selected to manipulate its size and positioning.</p>
+<p>Select the bitmap object.</p>
+<p><strong>Path > Trace bitmap</strong> This will open up a panel tab on the right <strong>'Trace Bitmap'</strong>.</p>
+<p>Select <strong>'Multiple scans'</strong> and select <strong>Colors</strong> in the drop down.</p>
+<p>Under <strong>'Scans'</strong> enter the number of unique colors in your bitmap.</p>
+<p>Press <strong>Update</strong> and <strong>Apply</strong>.</p>
+<p>Zoom into the graphic. Verify that the new vector is indeed a vector by zooming in and inspecting the quality. There shouldn't be obvious pixel-like artifacts.</p>
+<p>Sitting behind your fabulous new vector is your own bitmap. Drag the new vector out of the way and delete the old bitmap. If you don't do this the old bitmap will stay embedded in the SVG.</p>
+<p><strong>File > Save</strong></p>
+
+<h2>Package Management</h2>
+<h3>Install A Third Party Python Package</h3>
+<p><code>python setup.py install</code></p>
+<p>May need to use <code>sudo</code>.</p>
+
+
+<h2>High Level Networking</h2>
+<h3>Lighttpd Config For Serving Gunzip Compressed SVGs (.svgz)</h3>
+<pre><code>
+server.document-root = "~/asset-server/" 
+
+server.port = 3666
+
+server.modules += (
+    "mod_setenv"
+)
+
+$HTTP["url"] =~ "svgz" {
+        setenv.add-response-header  = ( "Content-Encoding" => "gzip")
+}
+
+mimetype.assign = (
+  ".html" => "text/html", 
+  ".txt" => "text/plain",
+  ".jpg" => "image/jpeg",
+  ".png" => "image/png",
+  ".svg" => "image/svg+xml",
+  ".svgz" => "image/svg+xml"
+)
+
+</code></pre>
+
+<h2>Linux on Android Devices</h2>
+<p>Softwares:</p>
+<p> - Odin</p>
+<p> - twrp</p>
+
+<h2>System Administration</h2>
+<h3>Human Readable Size of File</h3>
+<code>du -h [filename]</code>
+
+<h3>Set Dynamic Library Search Path For An Executable</h3>
+<code>LD_LIBRARY_PATH=[search path, ex ./] [executable file]</code>
+
+<h3>Clean up a dirty NTFS partition</h3>
+<pre>"The disk contains an unclean file system"</pre>
+<code>ntfsfix [partition path, ex. /dev/sdb1]</code>
+
+<h3>Mount A Disk Image</h3>
+<code>sudo kpartx -a -v [example.img]</code>
+<code>sudo mount /dev/mapper/loop[7p2] [/mount/path]</code>
+<pre>Cleanup afterwards</pre>
+<code>sudo kpartx -d [example.img]</code>
+
+<h2>Networking</h2>
+<h3>To set up an HTTP proxy (for HTTP and HTTPS traffic):</h3>
+<code>export http_proxy="http://proxy.gentoo.org:8080"</code>
+
 <hr>

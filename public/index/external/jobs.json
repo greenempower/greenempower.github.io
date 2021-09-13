@@ -1,0 +1,43 @@
+{
+	"jobs": [
+		{
+			"index": "https://cta.recruitee.com/"
+		},
+		{
+			"index": "https://movementlabs.com/jobs"
+		},
+		{
+			"index": "https://boards.greenhouse.io/politicaldata"
+		},
+		{
+			"index": "https://www.raisely.com/careers"
+		},
+		{
+			"index": "https://jobs.lever.co/civitech"
+		},
+		{
+			"index": "https://front.moveon.org/careers/"
+		},
+		{
+			"index": "https://www.propublica.org/jobs/product-developer-news-applications?utm_source=sailthru&utm_medium=email&utm_content=river-links"
+		},
+		{
+			"index": "https://proca.app/jobs/web-developer-react"
+		},
+		{
+			"index": "https://www.opensecrets.org/about/jobs.php"
+		},
+		{
+			"index": "https://blog.organiz.org/blog/Organiz%20is%20looking%20for%20a%20Full%20stack%20Developer"
+		},
+		{
+			"index": "https://getempower.com/jobs/eng"
+		},
+		{
+			"index": "https://www.themarshallproject.org/jobs/full-stack-developer"
+		},
+		{
+			"index": "https://center-for-new-data.breezy.hr/"
+		}
+	]
+}

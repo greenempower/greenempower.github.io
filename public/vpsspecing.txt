@@ -1,0 +1,5 @@
+<cite> [https://docs.radicle.xyz/docs/using-radicle/running-a-seed-node]
+- The requirements for the seed server are minimal. You should be able to run it with just 1GB of RAM and a single core server.
+- The two main resources to watch out for are the storage and network quotas/cost. The storage scales directly with the amount of code in all projects stored. As of mid-2021 you won't need more than 10G of storage, but better plan for quick expansion.
+- The network should sustain 300kbps and your monthly transfer quotas should be able to cover that.
+- There are still issues to solve in the code. In order to keep your host responsive and handle temporary problems and traffic spikes, it's best to limit the resources available to it. On Linux this can be done with cgroups. Limiting available memory to below 1GB and maximum CPU usage to 80% will allow you to gracefully restart the service if needed.

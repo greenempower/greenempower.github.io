@@ -34,4 +34,29 @@
 
 <p>The draft API protocol standard is the glue that cleanly empowers users and developers to use their provisions. Their can be one simple and lightweight standard for this that cuts down the bloat of using potentially several propreitary APIs and interfaces.</p>
 
+
+<h2>Activism</h2>
+<p>--- Courage Fund ---</p>
+<p>Fund people who commmit acts of leftist courage.</p>
+<p>For example Lauren Gibson (a 19 year old girl) is being potentially charged with a hate crime for stomping on a blue lives matter sign in front of a police officer; A anti-facist teacher in Natomas California is being witch hunted by backwards thinking people for his crime of exposing his students to forward thinking ideas.</p>
+<p>Both of these people need to be rewarded for their courage so that they know they did the right thing and that in the future others will be reasurred of that. We allow for the right wing fuckerony mob to hunt leftists without recourse.</p>
+
+
+<h2>Modern Production</h2>
+<p>--- New Fabrication System ---</p>
+<p>I did a good deal of work on 3D printing and other advanced forms of fabrication when I was younger.</p>
+<p>During that time I got to know the common RepRap based systems in deployment on low end 3D printers. Even on high end 3D printing systems (often times even multi-thousand dollar systems) the same basic mechanical and digital architecture was in place.</p>
+<p>A simple 3D printer would require four NEMA 14 hybrid stepper motors, a metal hotend, a power supply, and a control board.</p>
+<p>This new system will modify every part of that system except the hotend, but potentially that too.</p>
+<p>Efforts will be made to cut down the two mechanical parts of the system, the motors and the hotend, both in price and in power usage.</p>
+<p>The motors could be cut down by employing <a href="https://www.eminebea.com/en/product/rotary/steppingmotor/pm/">PM (Permanent Magnet) Stepper Motors</a> rather than hybrid stepper motors which are higher end - doing so may entail higher level modification to the mechanical system [1]</p>
+<p>To cut down on price and energy usage of the hotend, a new hotend type will be employed that has a lower volume throughput as volume throughput is defined by: nozzle size * print speed. Essentially our new hotend will be smaller and lower energy. As a consiquence print speed will be slower, but print detail and quality will be greater.</p>
+
+<p>A typical power supply is a large monolithic 12V unit that goes for about $20. We may need to produce our own smaller unit potentially even using our own custom ASIC. Voltages will likely be modified and potentially increased for this new system.</p>
+
+<p>The new board will utilize a new ASIC at its core. The ASIC will have at least one RISC-V core with connectivity. The ASIC will also integrate within itself stepping circuitry. A typical reprap system utilizes 4 our more stepper drivers which are a minimum of $5 each. Instead the ASIC will likely only need to generate an analog signal internally using a DAC and wire that to a simplified unit that gives corresponding levels of power to the PM stepper motors.</p>
+
+<p>doing so may entail higher level modification to the mechanical system: PM stepper motors are generally lower resolution hybrid stepper motors. If microstepping isn't enough to achieve optimal quality then a simple gearbox or similiar system may be necessary.</p>
+
+
 <!--tags: riscv, som-->
