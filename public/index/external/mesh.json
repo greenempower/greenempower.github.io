@@ -1,0 +1,16 @@
+{
+	"mesh": [
+		{
+			"index": "https://freifunk.net/"
+		},
+		{
+			"index": "http://tinc-vpn.org/"
+		},
+		{
+			"index": "https://guifi.net/"
+		},
+		{
+			"index": "https://github.com/cjdelisle/cjdns"
+		}
+	]
+}

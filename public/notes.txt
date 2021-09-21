@@ -26,3 +26,9 @@ Make a sitemap
 Make an auto generated RSS feed (XML file)
 
 Autogen basic timestamps for everything
+
+
+Concider incorporating somewhere
+- Andalusia (like DisCO.coop)
+- Vietnam
+- Make a LAO in Wysconsin (sketchy and the state can terminate it if they like)

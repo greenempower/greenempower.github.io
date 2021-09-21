@@ -578,7 +578,7 @@
 		},
 		{
 			"index": "https://contabo.com",
-			"notes": "good value",
+			"notes": "good value. $7 gets you 2 cores, 8GB RAM, 200GB SSD and notably 32TB Traffic / 'Unlimited Incoming'",
 			"local": "DE"
 		},
 		{
@@ -652,6 +652,26 @@
 			"tags": [
 				"no-kyc"
 			]
+		},
+		{
+			"index": "https://www.easyserver.at/",
+			"colocation": {
+				"raspberry-pi": "yes",
+				"pi-like": "yes",
+				"price": {
+					"qnt": "3.14",
+					"interval": "month",
+					"currency": "euro"
+				}
+			}
+		},
+		{
+			"index": "https://freerangecloud.com",
+			"notes": "they have a center in Fremont California and offer raspberry pi colocation, ip tunneling and more for decent prices. their VPS options seem reasonable except they're missing storage."
+		},
+		{
+			"index": "https://www.micron21.com",
+			"notes": "tons of services and they even offer free raspberry pi's to local businesses"
 		}
 	]
 }

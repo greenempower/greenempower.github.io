@@ -1,0 +1,23 @@
+{
+	"cites": [
+		{
+			"url": "https://ethereum.github.io/yellowpaper/paper.pdf",
+			"cites": [
+				"2ommer is a gender-neutral term to mean “sibling of parent”; see https://nonbinary.miraheze.org/wiki/Gender_neutral_language_in_English#Aunt/Uncle"
+			]
+		},
+		{
+			"url": "https://disco.coop/wp-content/uploads/2019/11/DisCO_Manifesto-v1-1.pdf",
+			"cites": [
+				"Meanwhile, adoption of blockchain dApps (decentralized applications) remains low when compared to Silicon Valley giants. The world’s top ranked dApp has 1300 daily active users. Yes, you read correctly: that’s one thousand three-hundred users — contrast that to Facebook’s 1.56 billion daily users. On the flipside, the energy consumption of most blockchain validation systems remains terrifyingly high, with estimates comparing it to that of the national consumption of Ireland or Denmark.",
+				"In the Guerrilla Media Collective, the neat division between theory and practice is moot.",
+				"In A Postcapitalist Politics, feminist economic geographers J.K. Gibson-Graham remind us that there are innumerable economic practises existing within, alongside and beyond capitalism. The panorama for non-capitalist economic diversity is vast, but capitalism blinds us to it by pretending to be all-encompassing and inescapable.",
+				". In the The Human Condition, Hannah Arendt argues that when aesthetics are linked to politics, it ultimately ends in fascism.",
+				"From this body of lived experience we propose a hypothesis: that DisCOs could become an economic counterpower by leveraging and federating the power of the movements mentioned above. What is the precise technical framework to make this happen? Here we will utter a sentence not very present in the blockchain space: We don’t know."
+			]
+		},
+		{
+			"url": "http://media.telekommunisten.net/manifesto.pdf"
+		}
+	]
+}

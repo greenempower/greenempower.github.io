@@ -4,3 +4,17 @@ miniature XML; easier on human editing and reading
 	<img> [example.com/ico.jpg]:
 	- 5mm wide
 }
+
+implement a machine system interface
+implement a memory model involving automatic RAM compression
+
+define integrated and dedicated model.
+{
+	I'll use some SBCs for development of the dedicated system (Orange Pi, Rock Pi 4, BeagleV, old X86 laptop) QEMU should be fine for development ATM.
+	The system should also have a script for integrating itself unto existing Linux installations.
+	The system should be broken into some parts mainly Bare Metal and Virtual/Abstracted. Bare Metal can act like a hypervisor which is installed as a blanket onto a particular physical machine / hardware configuration. Virtual/Abstracted is built in an agnostic way. It is the system and most of it's code can be run both over the blanket and by using an existing Linux installation as the blanket.
+}
+
+GEMX can a metadata spec of the entire systems and it's files. The entire system can be deployed and maintained using graphical methods
+
+GEMX will have an advanced image builder and writer (it will be largely graphical and provide much more options that traditional tools and ISO's do.
