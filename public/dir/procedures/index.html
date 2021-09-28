@@ -81,6 +81,9 @@ done
 <h3>Copy file directly to clipboard</h3>
 <code>xclip -sel c &lt [input_file]</code>
 
+<h3>Number of lines in a file</h3>
+<code>wc -l [filename]</code>
+
 <hr>
 
 <h2>FFMPEG</h2>
@@ -210,6 +213,11 @@ mimetype.assign = (
 <pre>Cleanup afterwards</pre>
 <code>sudo kpartx -d [example.img]</code>
 
+<h3>Get total human readable size of directory</h3>
+<code>du -shc [path optionally blank for current dir]</code>
+
+<hr>
+
 <h2>Networking</h2>
 <h3>To set up an HTTP proxy (for HTTP and HTTPS traffic):</h3>
 <code>export http_proxy="http://proxy.gentoo.org:8080"</code>
@@ -218,3 +226,58 @@ mimetype.assign = (
 <code>sudo ssh-keygen -f /etc/ssh/ssh_host_rsa_key -N '[myverylongpasswordhere]' -b 4096 -t rsa</code>
 
 <hr>
+
+<h2>Emulation</h2>
+<h3>QEMU</h3>
+
+<h2>Web Administration</h2>
+<h3>Example DNS Configuration For GitLab Pages; altendo.org</h3>
+<table>
+	<tr>
+		<td>A Record:</td>
+		<td>@</td>
+		<td>35.185.44.232</td>
+	</tr>
+
+	<tr>
+		<td>CNAME Record:</td>
+		<td>altendo.org</td>
+		<td>gemtendo.gitlab.io.</td>
+	</tr>
+
+	<tr>
+		<td>CNAME Record:</td>
+		<td>www</td>
+		<td>altendo.org.</td>
+	</tr>
+
+	<tr>
+		<td>TXT Record:</td>
+		<td>@</td>
+		<td>gitlab-pages-verification-code=899844586cd42e448cf003ba646bb377</td>
+	</tr>
+</table>
+
+<hr>
+
+<h2>Searching and Discovery</h2>
+<h3>Search forums.gentoo.org with the query 'f2fs ext4' using Google</h3>
+<code>site:forums.gentoo.org f2fs ext4</code>
+
+<hr>
+
+<h2>Bash Environment</h2>
+<h3>Change the static characters before your text prompt in a bash console</h3>
+<code>export PS1="[enter text here] ${PS1}"</code>
+
+<hr>
+
+<h2>Network Administration</h2>
+<h3>Use Angry IP Scanner to discover machines on LAN</h3>
+<p>It's a solid program that just works for discovering machines connected to the local network.</p>
+
+<hr>
+
+<h2>pacman - Arch Linux package manager</h2>
+<h3>list files owned by package</h3>
+<code>pacman -Ql [package]</code>

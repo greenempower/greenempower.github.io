@@ -13,8 +13,16 @@ define integrated and dedicated model.
 	I'll use some SBCs for development of the dedicated system (Orange Pi, Rock Pi 4, BeagleV, old X86 laptop) QEMU should be fine for development ATM.
 	The system should also have a script for integrating itself unto existing Linux installations.
 	The system should be broken into some parts mainly Bare Metal and Virtual/Abstracted. Bare Metal can act like a hypervisor which is installed as a blanket onto a particular physical machine / hardware configuration. Virtual/Abstracted is built in an agnostic way. It is the system and most of it's code can be run both over the blanket and by using an existing Linux installation as the blanket.
+	The dedicated system should act to bridge the device completely between technical users and the masses. Easy enough to use that it ends up in the hands of many but without compromise for hackers. This is to that we have a valid application target that is used by many but is not corporate or borked.
 }
 
 GEMX can a metadata spec of the entire systems and it's files. The entire system can be deployed and maintained using graphical methods
 
 GEMX will have an advanced image builder and writer (it will be largely graphical and provide much more options that traditional tools and ISO's do.
+
+GEMX will incorporate a rich data caching system. It will generally be assumed that a GEMX system is utilizing several storage/memory mediums of varying sizes and qualitites. The system will attempt to automate most of the management.
+
+
+system architecture {
+	Kernel can be compiled with NUMA, BCache, Ceph, Anbox, KVM and all manner of other technologies for enabling networked clustering, virtualization, emulation, parrallel compute, graphic compute, graphic rendering, compression and more.
+}

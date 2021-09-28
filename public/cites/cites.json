@@ -17,7 +17,24 @@
 			]
 		},
 		{
-			"url": "http://media.telekommunisten.net/manifesto.pdf"
+			"url": "http://media.telekommunisten.net/manifesto.pdf",
+			"cites": [
+				"In his ‘Essay on Profits’, Ricardo argues: ‘The interest of the landlord is always opposed to the interest of every other class in the community’.",
+				"Rather workers, by their very definition, are unable to earn enough to do anything more than make a living and struggle to live according to the acceptable standards of their community. These ‘acceptable standards’ are established in terms of the canons of taste and decency established by a predatory economic elite.",
+				"Thorstein Veblen, a Norwegian-American economist and sociologist whose work lays the foundation for the institutional economics movement, argues that, in a class society, all but the very richest are compelled to dispose of practically their entire income in order to live according to community standards of respectability, in what he calls ‘conspicuous consumption’ and ‘conspicuous waste’. To not participate in conspicuous consumption is to face social exclusion and further reduced prospects of upward mobility.8 ‘Failure to consume in due quantity and quality becomes a mark of inferiority and demerit’, Veblen argues in his 1899 The Theory of the Leisure Class.9"
+			]
+		},
+		{
+			"url": "https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Base",
+			"cites": [
+				"The LICENSE variable in an ebuild is only a guideline for Gentoo developers and users. It is not a legal statement, and there is no guarantee that it will reflect reality. So don't rely on it, but check the package itself in depth, including all files that you use."
+			]
+		},
+		{
+			"url": "bcachefs.org",
+			"cites": [
+				"If you don't want to use Patreon, I'm also happy to take donations via paypal: kent.overstreet@gmail.com."
+			]
 		}
 	]
 }

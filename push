@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+source ~/.profile
+
 git push rad
 git push gitlab
 git push github
