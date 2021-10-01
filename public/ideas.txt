@@ -1,0 +1,13 @@
+---
+Low latency / bandwidth desktop: design a desktop environment specifically designed streaming across the internet. The graphics can be largely vectorized and sophisticated smart caches of assets and other patterns can be kept on the client and server.
+
+Potentially you could possess several machines across the globe and they will interface with the client so that their desktops are easily switchable or potentially well integrated into each other.
+---
+
+---
+Inter CPU-RAM cache.
+
+Potentially we could build a system with several SRAM modules mounted in between the CPU and the DRAM modules.
+
+So maybe this new SRAM pool will be slow to access than in-built cache, but faster than interfacing with DRAM directly.
+---

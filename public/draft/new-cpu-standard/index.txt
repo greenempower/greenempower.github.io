@@ -1,0 +1,13 @@
+A new, broad and versitile CPU standard for general high performance usage.
+
+Fabricating chips on a modern node 28nm-5nm is expensive. Capitalists hegemony has us here as there is not a democratically run enterprise capable of manufacturing on these nodes.
+
+So this should be an initiative to bring together peoples and crowd funding to form a co-op purely for designing and manufacturing these new silicon products for use in our new hegemony.
+
+The chips should be designed with sustainability, longevity and versatility in mind. Essentially optimising for power usage and general purpose programmability.
+
+The silicon should be designed to merge the functionality of parallel graphics silicon and traditional monolithic cores, see Fujitsu A64FX.
+
+The processor may also have the capacity to execute an extended bytecode if this does not create too large a burden.
+
+- Maybe it should integrate an FPGA, idk might just want to do that seperately.

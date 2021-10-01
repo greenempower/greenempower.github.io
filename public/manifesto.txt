@@ -1,10 +1,15 @@
+--- Green Empower Manifesto v1 ---
+
 0.5. Ground Truth - where we are at in 2021 including statistics
+x. Shifting Powers
 1. A New Hegemony
 2. Offense and Defense
 3. Empowerment For the Masses
 4. Having a Good Time
 5. Accelerationism
+6. Philosophy
 6. A GEM Culture
+6.5. Saints
 7. Cooperation and Distribution
 8. GEM Industrialism / New Industrialism
 9. Internationalism
@@ -12,15 +17,24 @@
 11. Frontiers
 12. Our Means - How we 'fund' this
 13. Projects
+14. Aesthetics
+15. Terms
 
+x. Intelligence
+
+x. Global Power
+
+---
+
+--- Begin ---
 The work of GEM resolves mostly around doing our part to build a new global counter hegemony and empowering the majority ('Group B' in Michael Parenti's terms).
 
 In persuant to those aims there comes a good deal of higher order phenomina that need to be undertaken by GEM or other peoples.
 
 But the scope of GEM generally relates to those two objectives.
 
-1. Ground Truth
-Before delving further we should address the state earth.
+0.5. Ground Truth
+Before delving further we should address the state of earth.
 
 We are living in an era (call it the Anthropocene or the Capitalocene) defined by the initiation of the industrial revolution and the dominance of global capitalism.
 
@@ -34,7 +48,7 @@ We have been conditioned by group A to hate ourselves and to treat each other po
 
 Toxic individualism alone has caused great pain for great sums of people. And capitalism is an unsustainable, sick and doomed to fail social eugenics experiment by these crooked elites.
 
-While the voters of the imperialist core (America) has shown themselves to be right inclined to a worrying degree I see a number of positive indicators.
+While the voters of the imperialist core (America) have shown themselves to be right inclined to a worrying degree I see a number of positive indicators.
 
 It is undeniable that the political system of the USA is owned by the capitalists and only acts superficially to represent the will of Americans. While Americans' themselves as bloc hold positions that are in essence leftist.
 
@@ -43,3 +57,90 @@ This is what polling, studies and my own personal experience substantiate.
 Half of Americans don't vote. Those people scew left. Americans overwhelmingly support Bernie Sander's policies to a much larger degree than when presented Bernie's name explicitly. 
 
 If you want more evidence that America is left then pay attention to the reactionary right and see history. The capitalists feel the heat and this is why they are trying to consolidate their power via fascism.
+
+x. Shifting Powers
+China is rising and USA is falling. I do not expect that we can or should change this. Rather our part is to help ensure that both countries take a positive path.
+
+In the case of America we are seeing the rise of fascism and neofeudalism. We must counter that and see that when the empire falls we have already built our new hegemony well enough so that we can see the better path.
+
+I speculate that we shall see the rise of India and spanish speaking countries generally. Most generally any large country with tyranny (ex. Russia) stands to gain greatly from our popular liberation.
+
+1. A New Hegemony
+We cannot destroy without building. We cannot exercize large scale revolutionary action without first and throughout fullfilling many smaller actions of building a new hegemony.
+
+Yes we can explain if not convince the masses and those we need to win over that capitalism is largely bad if not evil. But we need an alternative and it cannot just be on paper.
+
+So that is a prime if not the prime goal of GEM. It is our perogative to draft, fight and most importantly start building as best we can.
+
+3. Empowerment For The Masses
+We expect not to be the priveledged agents of socialism. So the people need to be the agents of their liberation. The best GEM can do is to empower and protect this class through our work and actions.
+
+This is the second pillar of GEM with a New Hegemony. Empowering others is a major part of the operation.
+
+4.
+
+5. Accelerationism
+GEM recognizes that chiefly capitalism needs to be overthrown to prevent it's ongoing assult onto humanity. For this reason we give ourselves some extra liberty in our methods until the capitalist menace is gone.
+
+The structure of GEM will be largely distributed as to avoid accountability to capitalist institutions.
+
+Our philosohpy allows for situational flexibility on the part of the agent.
+
+6. Philosophy
+The GEM Philosophy is not like a traditional law system or moral code. There are not universal absolutest statements to be followed under some threat by a centralized power such as a deity or central government or state.
+
+Instead GEM Philosophy is general, dynamic and elaborate philosophy which emphasizes critical thinking on the part of the agent. It is enforced essentially by peer to peer relationships of agents who also follow GEM Philosophy.
+
+7. Culture
+
+9. Industrialism
+As industrialism is the basis of global economies so will it be the basis of our new hegemony.
+
+A great effort of GEM is to emulate existing industrial outputs and to do work towards moving the industrial 'burden' of global civilization from capitalists to the personal domains of individual proletarians.
+
+This could mean improving the accessibility of existing industrial machines by miniaturizing them reducing their cost.
+
+It could also mean creating open alternatives to existing or non-existing digital products.
+
+10. A New State
+A long running initiative of GEM is to form some order of state.
+
+The state may emerge physically but before that point we should establish sufficient global hegemony that will accompany the state whether or not it comes into being. 
+
+I've began to draft a proposal/initiative for a global 'federation' at greenempower.org/draft/federation.
+Within that we may desire:
+- a Fund
+- a Militia
+- Trade Infrastructure
+
+11. Frontiers
+As all of the land on Earth has been claimed it is worthwhile that GEM do work to facilitate exploration of space and water.
+
+12. Our Means
+Our interests as socialists are directly opposed to that of capitalists. They need to exploit us to survive and we need to liberate ourselves to thrive.
+
+So it should be expected that GEM generate it's means of subsistance and expansion by fighting and winning battles against capitalists. Replacing tyrannical capitalists enterprizes and private property with more efficient and democratic means.
+
+This is within our scope as our new hegemony should be capable of replacing ground of the existing tyranny.
+
+We grant ourselves some limited functional immunity in our conduct within this battle. It is not expected that we conquer this beast by being saints alone.
+
+And as it stands we are relatively weak. As of writing this org is a front of myself. My net worth is approximately $10k.
+
+x. Proposals
+It is not within scope currently to create a singular enterpise. So we shall have an intelligencia and as a part of that we can draft larger initiatives and protocols as I am doing now.
+
+13. Projects
+x. Distributed Industrialism
+There has benn a proliferation of the maker movement and cheap 3 axis fabrication technologies. And in this area there is an active endevour of GEM. I have plans towards making 3D printing systems even more accessible.
+
+x. Mesh Networking
+In many areas there is a need for peer to peer mesh internet. Mesh networks are inherantly peer to peer where each person or family owns some number of wireless nodes.
+
+So a large scale physical mesh network is desirable as it can more easily bypass overeach by companies and/or governments. Good for ensuring our safety and freedom as the opposition.
+
+14. Aesthetics
+The primary colors of GEM are green (for Green) and rose gold / pink (for Empower). Additionally blue can incorporated to expand the range. Red, green and blue are the primarly colors that our human eyes are capable of rendering.
+
+Pastel coloring is appropriate.
+So are transperant overlays.
