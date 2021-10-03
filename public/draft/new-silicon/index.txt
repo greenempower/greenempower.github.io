@@ -1,3 +1,4 @@
+--- New Compute System --- 
 A new, broad and versitile CPU standard for general high performance usage.
 
 Fabricating chips on a modern node 28nm-5nm is expensive. Capitalists hegemony has us here as there is not a democratically run enterprise capable of manufacturing on these nodes.
@@ -11,3 +12,10 @@ The silicon should be designed to merge the functionality of parallel graphics s
 The processor may also have the capacity to execute an extended bytecode if this does not create too large a burden.
 
 - Maybe it should integrate an FPGA, idk might just want to do that seperately.
+
+
+The silicon should use a chiplet like design.
+
+The ICs must be applicable for use in very small embedded designs and SBCs.
+
+The ICs must be applicable to clusters.

@@ -1,0 +1,5 @@
+lighttpd -p -tt -f lighttpd.conf
+
+echo "### Server Start ###"
+
+lighttpd -D -f lighttpd.conf
