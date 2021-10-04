@@ -11,3 +11,11 @@ Potentially we could build a system with several SRAM modules mounted in between
 
 So maybe this new SRAM pool will be slow to access than in-built cache, but faster than interfacing with DRAM directly.
 ---
+
+---
+Learn a new language by reading wikipedia
+---
+
+---
+Make a standard code library for GEM.
+---
