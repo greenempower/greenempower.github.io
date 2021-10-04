@@ -1,0 +1,3 @@
+cp CREDITS.md external/rendered/
+cp LICENSE external/rendered/
+cp LICENSE external/rendered/public

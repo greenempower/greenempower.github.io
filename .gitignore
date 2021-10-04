@@ -1,4 +1,5 @@
 gen/
 external/
+log/
 
 __pycache__/

@@ -26,3 +26,5 @@ GEMX will incorporate a rich data caching system. It will generally be assumed t
 system architecture {
 	Kernel can be compiled with NUMA, BCache, Ceph, Anbox, KVM and all manner of other technologies for enabling networked clustering, virtualization, emulation, parrallel compute, graphic compute, graphic rendering, compression and more.
 }
+
+lots of managed object (/file) metadata
