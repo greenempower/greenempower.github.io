@@ -1,5 +1,6 @@
 gen/
 external/
 log/
+log/lighttpd-error.log
 
 __pycache__/

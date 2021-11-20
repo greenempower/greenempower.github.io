@@ -1,0 +1,3 @@
+some simple pixel edit tool
+
+just for use in doing basic arts and stuffs for projects

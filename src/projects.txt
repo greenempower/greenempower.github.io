@@ -1,0 +1,5 @@
+--- Projects Ideas ---
+
+A GEM RISC-V core.
+
+A new browser because browsers are broken, bloated and corporate on Linux. While doing so will give power to shape web standards in proportion to user share.

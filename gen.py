@@ -1,10 +1,13 @@
 # Green Empower (greenempower.org) static page generator script
 # Python Script: gen.py
 
+import os
 import os.path, time
 #from pygit2 import Repository
 from pathlib import Path
 from shutil import copyfile
+
+import minify_html
 
 from lib import *
 
@@ -50,6 +53,20 @@ SCHAFOLD = \
 '''
 """
 
+def render(raw, varz=vars()):
+	ret = raw.format(**varz)
+	ret = minify_html.minify(ret, minify_js=False)
+	return ret
+	
+
+dirs = [x[0] for x in os.walk("./src")]
+for path in dirs:
+	cutoff = "./src/"
+	rel_path = os.path.relpath(path, cutoff)
+	new_path = "./external/rendered/" + rel_path
+
+	mkdirs(new_path)
+
 COPY_NO_PROCESS = readfl("copy-no-process")
 copy_no_process = COPY_NO_PROCESS.split('\n')
 
@@ -66,12 +83,12 @@ for path in paths:
 		print(" - copying without processing")
 		continue
 
-	new_path = "./external/rendered/public/" + rel_path
+	new_path = "./external/rendered/" + rel_path
 
 
 	if(rel_path.lower().endswith(".html")):
 		raw = readfl(path)
-		rendered_page = raw.format(**vars())
+		rendered_page = render(raw)
 		writefl(new_path, rendered_page)
 		print(" - rendered")
 	else:

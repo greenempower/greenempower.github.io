@@ -36,6 +36,10 @@ In persuant to those aims there comes a good deal of higher order phenomina that
 
 But the scope of GEM generally relates to those two objectives.
 
+I'm essentially making GEM my job right now. This is what I'm pooring most of my labor into right now because I don't have a better option.
+
+All of our work will soon be licensed under the Peer Production License.
+
 0.5. Ground Truth
 Before delving further we should address the state of earth.
 

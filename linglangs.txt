@@ -1,0 +1,22 @@
+1. Most Significant For General International Use
+x. English (this is my native language. it will be used as baseline)
+x. Madarin Chinese
+x. Hindi
+x. Arabic
+x. Spanish
+
+
+2. Extra
+x. Russian
+x. Vietnamese
+x. Japanese
+x. Korean
+
+3. Ify
+x. Irish
+x. Esperanto
+x. Lajoban
+x. Mayan
+x. Hebrew
+x. Kurdish
+x. Thai

@@ -1,0 +1,5 @@
+script for posting, deleting, editing to:
+- twitter / mastodon
+- pixelfed / instagram
+- friendica / maybe facebook
+- youtube / lbry / twitch / fedtube

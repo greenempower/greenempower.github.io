@@ -4,5 +4,6 @@ from lib import *
 
 mkdir("external")
 mkdir("gen")
+mkdir("log")
 
-os.system("git clone git@gitlab.com:greenempower/greenempower.org-rendered.git external/rendered")
+os.system("git clone git@github.com:greenempower/rendered.git external/rendered")

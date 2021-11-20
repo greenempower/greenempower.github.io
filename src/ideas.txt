@@ -19,3 +19,17 @@ Learn a new language by reading wikipedia
 ---
 Make a standard code library for GEM.
 ---
+
+---
+A new virtual machine implementation / fork for Python. specifically for the needs of GEMx projects.
+---
+
+---
+Red Ledger
+
+A new ledger and software system/standard in replacement of Ethereum for use by communist revolutionaries.
+---
+
+---
+Bootstrap the new ledger by created a program on the ethereum blockchain which executes its functions including spawning new DisCOs
+---

@@ -1,0 +1,11 @@
+I think for this effort to further develop is human networking.
+
+Once the two virtual private servers are bought and configured, I can keep state on this site and offer some more services for comrades.
+
+After that I'd like to form a DisCO of some sort.
+
+Create a texting or call group using Spoke for example.
+
+Create a Mastodon or something of that sort like Friendica.
+
+A Voxim or Minetest server can further be used to build community.

@@ -1,0 +1,1 @@
+GEM Cloud -- official name redacted -- - a modern and egalitarian cloud service with a lightwight provisioning API. the service will encorporate modern protocols and systems such as IPFS and common services will be pooled to reduce end cost while the provisioning API enables standardized apps.

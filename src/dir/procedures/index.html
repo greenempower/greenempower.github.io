@@ -143,6 +143,8 @@ python -m SimpleHTTPServer
 <h3>Host Records / DNS Data</h3>
 <p>All possible records: <code>host -a [example.com]</code></p>
 <p>Selective: <code>host -t [mx/ns/txt/cname/soa] [example.com]</code></p>
+<h4>Or use dig</h4>
+<code>dig firstvalue.example.com TXT</code>
 
 
 <h2>Vector Manipulation</h2>
@@ -225,6 +227,9 @@ mimetype.assign = (
 <h3>Configure SSH Deamon</h3>
 <code>sudo ssh-keygen -f /etc/ssh/ssh_host_rsa_key -N '[myverylongpasswordhere]' -b 4096 -t rsa</code>
 
+<h3>See bound ports</h3>
+<code>lsof -i -P -n | grep LISTEN</code>
+
 <hr>
 
 <h2>Emulation</h2>
@@ -281,3 +286,11 @@ mimetype.assign = (
 <h2>pacman - Arch Linux package manager</h2>
 <h3>list files owned by package</h3>
 <code>pacman -Ql [package]</code>
+
+<hr>
+
+<h2>Security</h2>
+<a href="https://serverfault.com/questions/484707/is-it-possible-to-have-a-100-secure-virtual-private-server">Is it possible to have a 100% secure virtual private server?</a> <br>
+<a href="https://www.hln.com/encrypting-data-at-rest-on-servers-what-does-it-get-you/index.html">Encrypting Data at Rest on Servers: What does it get you?</a> <br>
+<a href="https://www.recompile.se/mandos">Mandos</a>
+<a href="https://security.stackexchange.com/questions/89825/is-full-disk-encryption-on-a-server-in-a-secure-data-center-pointless">Is full disk encryption on a server in a secure data center pointless?</a>

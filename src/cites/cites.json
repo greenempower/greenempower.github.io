@@ -52,6 +52,23 @@
 			"cites": [
 				"The timing and content of this meeting was no accident; it was a clear message to Harris that any attempts to pit the countries against one another will not succeed."
 			]
+		},
+		{
+			"url": "https://www.european-processor-initiative.eu/?p=subscribe",
+			"cites": [
+				"One key segment of EPI activities is to develop and demonstrate fully European-grown processor IPs based on the RISC-V Instruction Set Architecture, providing power-efficient and high-throughput accelerator cores named EPAC (European Processor Accelerators). Using the RISC-V Instruction Set Architecture will allow leveraging open-source resources at hardware architecture and software level, as well as ensure independence from non-European patented computing technologies."
+			]
+		},
+		{
+			"url": "https://www.quora.com/Are-Chinese-and-Vietnamese-related",
+			"cite": "When I look at Vietnam’s relationship with China, I am often reminded of the old Mexican saying: “Poor Mexico - so far from God and so near to the United States!”"
+		},
+		{
+			"url": "https://github.com/MoveOnOrg/Spoke/blob/main/CODE_OF_CONDUCT.md",
+			"cites": [
+				"Refrain from demeaning, discriminatory, or harassing behavior and speech, including threats to pursue legal action including litigation",
+				"Public or private harassment, including threats to pursue legal action including litigation"
+			]
 		}
 	]
 }

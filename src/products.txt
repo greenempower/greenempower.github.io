@@ -1,0 +1,52 @@
+GEMX - GEM Supersystem for Linux, middleware aggregate providing a consistent dev environment and platform for GEM software products
+
+GEM Linux Installer - A semi-graphical meta distribution img for installing Linux onto new computers.
+
+GEMFS - meta overlay fs over ext4 or btrfs
+
+GEMU - GEM Emulation, general purpose simulation software for increasing the efficiency of physical systems/products design.
+
+Voxim - Voxel Simulation, general creative interactive software system.
+
+GEM Interactive Bible - mythilogical media series rendered in 4K HDR 120FPS. ray traced photorealistic characters and scenes. focus on post capitalist world where saints have been manufactured by the reds for positive political and cultural purposes.
+
+Voca - artificial vocal synthesis, song
+
+GemRen - advanced media renderer with ray tracing and modular effects
+
+Meme Maker - easily create based, stunning and sophisticated memes without branding or comprimize.
+
+Central Registry - intregal component to GEMX is the central registry. I large database of key pairs, tags and relationships.
+
+Browser - potentially based on agregore
+
+Study Mate
+
+Executive Desk
+
+DisCO Chain Implementation - alternative system to ethereum with the intended purpose of enabling anarchist and communist cooporation while being simple and sustainable, incorporating texts from disco.coop
+
+Virtual Commune - essentially our social collaborative platform
+
+GEM Framework - shared code framework written primarily in C++, Python and Markup, executing in the GEMx supersystem environment.
+- standard multitasking system
+- game engine framework
+- common algorithms/structures/datatypes enclave
+- graphics and rendering system
+
+
+---
+GEM Workspace - Graphical interactive superstructure built upon GEMx.
+- Apps and systems are horizontally integrated for user manipulation within the Workspace.
+- Tasks and procedures are optimized rather trivially autonomatically and through user manipulation.
+- Supporting a simple and robust remote rendering model incorporating vectors, events and caching (vector+cache) to improve latency and fidelity without sacraficing image quality.
+
+-- Same Thing --
+GDE - GEM Desktop Environment, built with vector graphics and html and remote client/server desktop forwarding. in depth graphical tooling. multitasking, archiving and interest management tools. ; Xorg encapsulation
+---
+
+Synthetic Psilocibin
+
+Pig Shooter - FPS shoot up fascist pigs
+
+GEM Fabricator - A new 3D Plastic printing machine (3D Printer) issued by GEM. Designed for accessibility in price and repairability. A great tool to accompany the GEM software supersystem.

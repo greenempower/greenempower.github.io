@@ -1,0 +1,2 @@
+#npm install html-minifier -g
+pip install minify-html

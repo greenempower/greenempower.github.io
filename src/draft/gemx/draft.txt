@@ -1,0 +1,7 @@
+GEMx should come in generations.
+
+gen1 will be encorporated as the software standard for use in our immediate apps and code (Voxim, etc) running on established Linux distros, assuming current hardware which is corporate, proprietary hegemonic.
+
+gen2 will run on high performance risc-v platforms from the EU, India and China. gen2 may start to fully implement some of our more elaborate systems and technologies assuming we do not have control over design of the silicon itself. 
+
+gen3 will run on hardware designed co-operatively. the silicon will be optimized for high performance, general purpose, highly parralel, highly networked and highly virtualized usage. With a great deal of provisions for many domains specifically scientific, rendering, compilation and other ubiquitous usages. There may not be a strong distinction between traditional and graphics cores.

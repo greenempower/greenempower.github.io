@@ -1,0 +1,3 @@
+- https://linuxgizmos.com/risc-v-gains-new-performance-leader-with-alibabas-16-core-xt-910/
+- https://www.european-processor-initiative.eu/first-steps-towards-a-made-in-europe-high-performance-microprocessor/
+- https://shakti.org.in/

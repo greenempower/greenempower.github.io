@@ -1,0 +1,5 @@
+a linux console for interracting developing with gem
+
+automate the archestration of git repos
+
+integrate the entire environment
