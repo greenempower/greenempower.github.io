@@ -1,0 +1,19 @@
+---- Finance ----
+
+--- Red DeFi (non-western) ---
+- Crypto.com
+- Huobi
+
+--- Decentralized Exchanges ---
+- BlockDX
+- Bisq
+
+--- Decentralized Finance ---
+- Bitpanda
+
+--- Automation ---
+- Zenbot
+- Freqtrade
+
+--- Centralized Exchanges ---
+- bitmex

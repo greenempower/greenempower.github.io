@@ -1,0 +1,1 @@
+GEM GEN in the working name for the eventual project providing a bootable medium for interactively and extensively generating a Linux installation on new hardware particularly for use as host for installation of the GEMx supersystem.

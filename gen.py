@@ -55,7 +55,7 @@ SCHAFOLD = \
 
 def render(raw, varz=vars()):
 	ret = raw.format(**varz)
-	ret = minify_html.minify(ret, minify_js=False)
+	#ret = minify_html.minify(ret, minify_js=False)
 	return ret
 	
 

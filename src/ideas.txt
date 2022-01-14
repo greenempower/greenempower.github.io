@@ -33,3 +33,12 @@ A new ledger and software system/standard in replacement of Ethereum for use by 
 ---
 Bootstrap the new ledger by created a program on the ethereum blockchain which executes its functions including spawning new DisCOs
 ---
+
+---
+a file format that is a synthesis of the gif compact image and animation format and of vector graphics with curves, text, gradients, textures, etc
+I'd like to store the portraits and head shots on greenempower.org in this format and use it in the streaming console project so that I can get something that looks nice and that is more compressable and pleasant to work with than a jpeg
+---
+
+---
+a program that generates intelligible audio books from source code so I can study code using T2S (test to speech app) while hiking
+---

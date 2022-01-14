@@ -50,3 +50,23 @@ Synthetic Psilocibin
 Pig Shooter - FPS shoot up fascist pigs
 
 GEM Fabricator - A new 3D Plastic printing machine (3D Printer) issued by GEM. Designed for accessibility in price and repairability. A great tool to accompany the GEM software supersystem.
+
+PyCAD - design CAD in python, sorta like OpenSCAD
+
+Advanced Session Manager - maintain state and session across powerstates and caching states, essentially I don't want to constantly have to manually repeat actions after work has already been flushed from RAM.
+
+GEM Linux GEN - A graphical indepth linux installation generator and bootstrapper generally intended as a medium for industrial usage and as a host for gemx.
+
+Linux Discovery Engine - A specialized search engine browser and database/index specifically for using Linux and accessing Linux and FOSS knowledge.
+
+Language Deck - Accelerated imersive language learning program. Teaches alphabets, pronunciation, writing and reading. Includes language specific libraries of media and written content. Integrates wikis and phased translation so that you can read articles partially in your target language and partially in your native language. Simple audio meetings and knowledge center. Facilitates studying multiple languages together. hyoutu.be/Pi5taR18uZ8 (f*ck the pentagon)
+
+cryedit - wrapper utility for editing files and archives which are securely encrypted (aes256) using existing tools and editors such as vim or nano and existing libraries such as tar and gpg.
+
+Manipulation Framework - general standard for designing with various data inputs and outputs. common framework for dealing with CAD, image manipulation, video editing, music, modeling, coding/scripting
+
+LibreHop - FOSS clone of Tiles Hopper app by Amanotes. there will be no ads and battery draining as there is in the original. will likely be built within the browser context with Hilo3d as renderer.
+
+A ray tracing project - code base for proliferating easy and simple ray tracing tools for art, media and propaganda
+
+A public project bulletin and workspace on the site. a project can be stored in a special format or directory, it can have linked repositories, references and stars, linked funding, contributer graphs, linked wiki, working drafts, etc...

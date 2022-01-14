@@ -1,0 +1,5 @@
+model for parrallel systems relying on larger numbers of smaller CPUs, high-bandwidth connectd, over larger spaces.
+
+instead of a typical cpu with a single expensive low process node cpu and gpu there can be a pc with several RISC based SoCs within modules. and there can be greater quantities of devices on the LAN.
+
+these higher node SoCs are considerably cheaper and emphasis should be on optimizing software to lessen use of expensive resources such as RAM.
