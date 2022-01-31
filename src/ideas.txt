@@ -42,3 +42,20 @@ I'd like to store the portraits and head shots on greenempower.org in this forma
 ---
 a program that generates intelligible audio books from source code so I can study code using T2S (test to speech app) while hiking
 ---
+
+---
+the language suite should include a tool for generating half translated audio books. the tool should take for example a chinese text and output an .epub or .ogg where each original chinese word is pronounced and then the english translation is given
+---
+
+---
+I should establish a git push cache locally or within GEM's cloud servers so that repos referencing each other can be synchronized without exposing commits to the public. commits can later be manually sync'd with public repos
+---
+
+---
+Saint Lad GEM should act as the (fictional) patron saint of GEM. He should likely have a supporting person maybe a sister.
+The rest of the comrades should be cute little animals like this: https://twitter.com/sovietstern/status/1483264307844587521/photo/1
+---
+
+---
+make a framebuffer analyzer that makes it so that everything is displayed always as if dark mode is enabled
+---

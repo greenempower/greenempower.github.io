@@ -1,0 +1,9 @@
+I expected that GELANG may be a Lua fork but looking at the Lua source code I'm not sure as it is seemingly small enough to replicate and there may be advantages to doing that or by starting from a different fork.
+
+C++ is a solid technology and GELANG should feature FFI like support for it (not just C)
+
+There should be a standard simple VM environment for running GELANG.
+
+GELANG may be split into two parts: the environment and script, and the acceleration layer.
+The first is more like a standard scripting language such as Lua, JS or Python.
+The second defines a simple dialect that can be run from within the first and is better accelerated with inputs from the first layer so that is not as often necessary to make modules seperately in a compiled language.

@@ -7,7 +7,7 @@ import os.path, time
 from pathlib import Path
 from shutil import copyfile
 
-import minify_html
+#import minify_html
 
 from lib import *
 
