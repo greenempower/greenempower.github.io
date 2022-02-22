@@ -1,0 +1,16 @@
+KNOWLEDGE ACQUISITION REFERENCING AND MANAGEMENT SYSTEM
+
+I have had a vague idea of this general knowledge system which has the objective of aiding the user in their multi-disciplinary research and application.
+
+Essentially this software system should be able to analyse large sets of primarily textual data initially consisting of books, threads and articles which are primarily intended to be written and accessed by humans.
+
+But practically a human does not have the time to sift through the vast amounts of data now accessible in digital form through the internet.
+
+So an automated system should be better at this and finding truly important information and insights.
+
+One way for such a system to identify important meanings is by recieving human input but more critically allowing for the system itself to operate on a level of higher intelligence.
+
+Since the software system is capable of interpreting data in much more vast quantities, it is possible for it mark corrolations and relationships between different texts that a human would not have the time capacity to achieve.
+
+More on this,
+but largely this system should act as a study mate automating all the tedious tasks that should ideally not be done manually.

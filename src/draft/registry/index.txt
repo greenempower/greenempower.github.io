@@ -1,0 +1,21 @@
+STANDARD FLEXIBLE REGISTRY SERVER
+
+I am designing a central registry server for use on a web server and locally within a GEMx installation.
+
+This registry should be the primary means of resource management within GEMx.
+
+The registry will support revisioning of all it's entries.
+
+The registry will encapsulate:
+- Code Objects in a standard representation in the format of a function with inputs and outputs. 
+- Data Objects in the form of key value mapped tables or 'dictionaries'.
+- File Objects much like standard Unix files as binary blobs with headers and extensions.
+
+Each unique object has a unique global ID.
+
+Additionally the registry should support metadata in the forms of tags and other attributes on all of it's objects.
+
+The registry may additionally keep an entropy file as a means of compression.
+
+
+The unique ID's should be truly global and networked just like IPFS or Ethereumm resources are. They are not specific to individual computers so I will keep a master record on my servers while a client may choose to download only a subset.

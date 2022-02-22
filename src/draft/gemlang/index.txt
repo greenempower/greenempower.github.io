@@ -1,0 +1,9 @@
+GEM PROGRAMMING LANGUAGE VM REPRESENTATION AND SPECIFICATION
+
+There should be a special programming language for primary use within GEMx.
+
+It should integrate with draft/registry so that it's entries are coded in gemlang (functions) and gemlang objects.
+
+There should be exposed primitives of all native sizes and these should generally map as intended to real memory resources. ex f32 -> 32 bit float or i64 -> 64 bit signed integer.
+
+

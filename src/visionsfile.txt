@@ -5,3 +5,78 @@ there will be a formal implementation of a distributed ledger in opposition to E
 there must be genre in contrast to asian pop music and entertainment media that remains relatively uncorrupted by vapid capitalism
 
 there must be a militant social order in the west and elsewhere that stands in strong oposition to rabid anti-communism and general fascitalism
+
+I think there should be a system for handling resources across the gem ecosystem. Something that makes it easy to reference and utilize assets from multiple mirrors (including IPFS or the central store) using special id's and tags.
+
+maybe there should be a GEM Remote package. an extension of GEMx for doing processing on the server
+
+---
+I must have a better solution to managing large numbers of tabs in Firefox and maybe Chrome.
+---
+
+---
+should develop a digital distribution system and I have a short domain in mind
+EXAMPLE_DOMAIN: sho.rt
+sho.rt/@<namespace> : a namespace for profiles, groups, ...
+sho.rt/u/<username> : user accounts
+i.sho.rt/<asset>    : static images assets such as jpegs, pngs and gifs
+v.sho.rt/<video>    : videos
+i.sho.rt/<asset>    : binary images where other labels don't apply
+r.sho.rt/<repo>     : repos alternatively /repos/
+s.sho.rt/<source>   : source code repos either git or <source>/git , or this could be social
+c.sho.rt/<program>  : executable code programs
+h.sho.rt            : hub specific assets
+
+I should provide a form for others to register namespaces.
+
+This system should have a piece of software for itself.
+---
+
+---
+GEM Service
+central package for running on self hosted VPSs,
+manages per person identities,
+integrates all essential web softwares,
+potentially with optional mods,
+decentralized tendency,
+fault tolerant and censorship resistant.
+---
+
+---
+GEM Stream
+streaming service software to broadcast music and communist footage
+---
+
+---
+GEM Archive #1
+a big data archive of memes, music, articles, books and footage
+---
+
+---
+proper form system,
+a streamlined system for administering forms and polls,
+useful for developing projects and human resources
+---
+
+---
+a simple mesh editor for voxim
+---
+
+---
+make a graphical layer like a continuation of vkmod for voxim,
+and other products
+---
+
+---
+a singular manipulations system for modifying all sorts of data
+---
+
+---
+there should be a general object and code system
+a table should be kept locally of instances of objects and functions
+along with namespaces they are labeled under and tags
+the remote resource server should keep these under url's
+objects can be json like dictionaries and functions be as normal functions,
+which are the smallest element of code with inputs and outputs
+revisions and versions of each object and function should be tracked
+---

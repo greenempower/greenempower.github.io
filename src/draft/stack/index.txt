@@ -1,0 +1,7 @@
+DEFINITION OF GEMX SOFTWARE CONFIGURATION AND STACK
+
+GEMX is currently being implemented as a special Linux installation (still being developed)
+
+There will be a special layer on which the bulk of the original GEMx system will be implemented.
+This layer is seperated as I expect to iterate on the underlying fundamental layer with time.
+Eventually I think it will be desirable to implement an origin kernel that can be licensed under the Peer to Peer License. But it should keep major compatibility with existing drivers and have some basic compatibility specification.

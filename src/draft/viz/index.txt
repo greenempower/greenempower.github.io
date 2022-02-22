@@ -1,0 +1,11 @@
+DRAFT OF AN ART VISUALIZATION PROPAGANDA SYSTEM
+
+GEM should have a system of generating high-fidelity art and propaganda material for the intent of marketing products and initiatives and for the purpose of creating media pieces with entertainment and recreational value.
+
+A specific suite of tools should be put together to do this.
+First there should be a standard rendering tool in GEMx that can raytrace scenes individually and as a stream, while this tool should also provide for a wealth or high end affects in the orthographic space operating on pixels and vectors.
+
+I do not intend to create a dichotomy between artistic design and CAD that exists now in modern PC systems. For me the line between technical and artistic considerations is too blurry.
+
+There should be a defined set of functions and objects relating to design within the registry.
+And there should be some special class of data structures and complex operations that are registered and applicable to this field such as matrices and algabreic manipulations.

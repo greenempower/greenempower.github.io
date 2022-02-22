@@ -59,3 +59,8 @@ The rest of the comrades should be cute little animals like this: https://twitte
 ---
 make a framebuffer analyzer that makes it so that everything is displayed always as if dark mode is enabled
 ---
+
+---
+a patch tool called eclectic that merges code from different sources with patches and local modificatons so that it handles copyright and attribution
+---
+---
