@@ -1,0 +1,26 @@
+
+An initial product from the voxim project should be an efficient voxel game implementation that integrates some of the fundamental aspects of modern modded Minecraft server play.
+
+In this context mods typically implement utility and rendering libraries, energy systems, shared registries of ores and other items, customized terrain generation, advanced computer and redstone systems, complex entities encompasing blocks and mob AIs, mystics and magic, and deep modifications to the underlying engine for augmenting rendering and adding increasingly intricate hooks via Forge and Fabric.
+
+While modern minecraft servers deal with issues of lag, lack of scalability and increased hosting prices. Java Minecraft is highly CPU and memory intensive. Both resources are expensive in a server context
+
+This product's implementaton should be modular and so it should allow for hooks at any point.
+the inbuilt modules should not aim to recreate successful Minecraft mods but rather lay a more solid foundation,
+This product should implement an energy system including generators and a common energy unit,
+basically implement some magical systems such as mana (Thaumcraft),
+implement a more dynamic NPC system (inspire MineColonies),
+a dynamic world system (Mystcraft),
+a logic system (Computer Craft and Project Red),
+an advanced entity system (Pixelmon, furniture mods, space mods, modern rail mods, Archimedes Ships),
+micro-mods so small tweaks don't incure much overhead,
+fabrication system (3D Printing mods, Compact Machines, Inventory Pets+Thaumcraft Magic),
+a slightly more advanced physics system (more to elaborate),
+a slightly more intricate world with smaller blocks,
+a more advanced inventory system that doesn't assume huge pockets,
+geoscience closer to real earth science
+...
+
+The core of this product should be implemented in C++ and I will put in a deeper analysis on performance as this system gets finally spec'd out.
+
+And to improve on scalability this product should employ a p2p design for server to server communication (where network in/out are equal) and clients (where upload is just a fraction of download)

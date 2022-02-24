@@ -1,0 +1,7 @@
+---
+I'm imagining a more productive mesh editor since modeling a cube from scratch in OpenGL (in developing Voxim) is very tedious.
+---
+
+---
+and there should be a GEM compile system likely written in Python
+---

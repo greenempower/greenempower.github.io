@@ -1,0 +1,7 @@
+GEM KERNEL
+
+There may be with time a desire for an alternative kernel to Linux.
+It should happen as neoliberal politics and licensing may advance on Linux.
+Or when there is a desire for many features which cannot be properly addressed by the historic design of Linux.
+
+https://twitter.com/Luisro36912/status/1496314231091781634

@@ -1,0 +1,7 @@
+GEMX COMPRESSION SUBSYSTEM
+
+GEMx should employ a central compression method that words by agregating system data and metadata and by procuring an 'entropy file'.
+
+And the entropy file is 'federated' in a p2p network like the registry is and several other systems within GEMx.
+
+And the registry system should likely play a large part in producing this 'entropy file' while another system manages it otherwise.

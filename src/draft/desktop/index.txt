@@ -1,0 +1,11 @@
+GEM DESKTOP ENVIRONMENT
+
+As I am not satisfied by existing DEs.
+This new DE should be capable of managing many windows and instances of apps without confusion.
+Using XFCE and KDE I find that tabs and windows get lost very easily and I waste time search through them.
+
+GEM DE should define a one alternative to a window that is essentially an activity and a handle to a temporary markup language file object which can be written too.
+
+Then a viewport and frame buffer system which can be rendered to by a layer which I current think of as being called 'vkmod'.
+
+And finally a X11/Wayland compatibility 'window'.

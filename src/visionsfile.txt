@@ -80,3 +80,7 @@ objects can be json like dictionaries and functions be as normal functions,
 which are the smallest element of code with inputs and outputs
 revisions and versions of each object and function should be tracked
 ---
+
+---
+GEMx must have a proper Python installation and system because otherwise it is totally broken.
+---

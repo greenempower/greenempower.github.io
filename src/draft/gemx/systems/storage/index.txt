@@ -1,0 +1,6 @@
+SINGULAR STORAGE ENGINE/DRIVER FOR GEMX
+
+GEMx is currently being implemented in a virtual machine.
+In the 'GEM Layer' I'd like all storage mediums to only be exposed through this engine.
+
+The storage engine will expose virtual devices for the registry and other apps can have access to these devices.

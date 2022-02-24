@@ -1,0 +1,7 @@
+I am developing a tool for dual translating digital books for language learning by audio.
+
+I have setup an environment using argostranslate but have found that model does not work for individual words.
+
+https://linguistics.stackexchange.com/questions/43936/what-is-a-good-multi-language-translation-system-for-individual-parts-of-speech
+
+
