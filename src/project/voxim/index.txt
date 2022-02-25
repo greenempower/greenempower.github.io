@@ -18,7 +18,8 @@ fabrication system (3D Printing mods, Compact Machines, Inventory Pets+Thaumcraf
 a slightly more advanced physics system (more to elaborate),
 a slightly more intricate world with smaller blocks,
 a more advanced inventory system that doesn't assume huge pockets,
-geoscience closer to real earth science
+geoscience closer to real earth science,
+a foundation for more engrossing agriculture and farming
 ...
 
 The core of this product should be implemented in C++ and I will put in a deeper analysis on performance as this system gets finally spec'd out.

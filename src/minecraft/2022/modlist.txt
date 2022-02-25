@@ -6,11 +6,10 @@
 
 # core mods
 
-# primary
+# common
 Pixelmon Reforged: 8.3.6
 Applied Energistics 2: rv6-stable-7 
 Draconic Evolution: 2.3.28.354
-Just Enough Items: 4.16.1.302
 Tinkers Construct: 2.13.0.183
 Quark: r1.6-179
 Thaumcraft
@@ -18,17 +17,20 @@ CC Tweaked
 Inventory Pets
 Mekanism
 MineColonies
+Compact Machines
+Flan's Mod
 
 # exploration
 Twilight Forest
 
-# extended
+# extra
 Chisel: 1.0.2.45
 Mystical Agriculture
 
 
 # client only
 Optifine
+Just Enough Items: 4.16.1.302
 
 # notes:
 # - mekanism already implements nuclear reactors
@@ -37,3 +39,10 @@ Optifine
 # - transportation mods
 # - possibly add Mystcraft but that's resource intensive on the server
 # - add a unified ore dictionary
+# - maybe add Forestry
+# - add a mobs mod
+# - one or two farming mods
+# - gun/war mod (Flan's Mod) with Communist pack.
+
+# considering:
+# - Modular Powersuits
