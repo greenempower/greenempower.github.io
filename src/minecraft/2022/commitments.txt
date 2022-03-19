@@ -1,0 +1,3 @@
+I commit to a 5 year stability plan. The servers's configuration, mod list and world state should not be radically changed in this time.
+
+The server will continue to run indefinitely.

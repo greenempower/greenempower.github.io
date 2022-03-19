@@ -21,3 +21,33 @@ The registry may additionally keep an entropy file as a means of compression.
 The unique ID's should be truly global and networked just like IPFS or Ethereumm resources are. They are not specific to individual computers so I will keep a master record on my servers while a client may choose to download only a subset.
 
 There should likely need to be a class templating system for the data objects. And this specification system will likely require leverging access to bare metal resource layout as in a C struct, unless the requirements of the struct can be defined at a higher level so that a dynamic compiler can optimize for specific conditions.
+
+The raw data of  the registry can be divided into many chunks and distributed across servers.
+
+The 'ownership' of many divisions of the registry should be allocated amongst cryptographic identities or 'profiles'.
+
+Perhaps the domains can be managed with democratic oversight of the peers by 'groups' of these profiles.
+
+--- broad registry server ---
+
+there should be a specialized social hub at the registry domain
+some basic features should be:
+- profiles
+- pages
+- value exchange (likes, comments, donations, funding)
+- media, documents
+- connections, meetings
+- forms
+- email
+- groups
+- messaging
+- integrations
+
+and there should be a system for guaranteeing security as required
+
+---
+
+---
+Asset library,
+there should be library of 3D assets kept
+---

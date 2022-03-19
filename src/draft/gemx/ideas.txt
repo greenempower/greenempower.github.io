@@ -1,0 +1,2 @@
+Maybe GEMx should have seperate dev and user environments like Android?
+Specifically I think for now it would be smart to keep the development of the base Linux image outside of the guest itself since that should keep the image size down and GEMx does not intend to be a Linux distro.

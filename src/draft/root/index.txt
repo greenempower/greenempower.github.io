@@ -1,0 +1,5 @@
+GEMx Root Layer
+
+For now there should be a root Linux filesystem layer with libraries and drivers installed.
+
+And the VM should be installed on this, but it can be accessed with a root console.

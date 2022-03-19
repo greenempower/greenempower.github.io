@@ -1,0 +1,6 @@
+GEMx Skins System
+
+Maybe GEMx should have a system for configuring superficial skins.
+Specifically I am concerned that the default configuration may apeal to a hacker but not to an average user which is problematic as this system intends to be universal.
+
+So maybe the basic interface should ship in some form with a module that presents some number of configurable high level, graphically appealing and easy to use human interfaces for those who want the easiest time administering and using apps in the system.

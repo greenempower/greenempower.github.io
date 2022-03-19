@@ -1,0 +1,11 @@
+GEMx Basic Human Interface
+
+This module (ui) should expose a semigraphical BIOS like interface to the system after booting.
+
+draft/sgi
+
+It will use semigraphical interface technology 
+
+It may expose a rooted console.
+
+It should be capable of spawning any number of viewports from there.

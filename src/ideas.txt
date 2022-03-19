@@ -63,4 +63,26 @@ make a framebuffer analyzer that makes it so that everything is displayed always
 ---
 a patch tool called eclectic that merges code from different sources with patches and local modificatons so that it handles copyright and attribution
 ---
+
+---
+a social system for creating lasting, productive relations between individuals
+---
+
+---
+make Animated Structures 2 for MC
+---
+
+---
+a video popout window like in android for DE
+Enhancer for YouTube and other apps support this already
+---
+
+---
+create an email list
+---
+
+---
+GEMx should have a sort of 3D Lexicon.
+The Lexicon can include 3D emojis, animals, mascots, clothing items, mythology, etc.
+Maybe that should be a part of a larger lexicon within the registry.
 ---

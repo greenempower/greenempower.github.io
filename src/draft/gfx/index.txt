@@ -1,0 +1,7 @@
+ADVANCED GRAPHICAL INTERFACE AND SYSTEM FOR GEMX
+
+So there should be a simple and perhaps unified graphical inteface in GEMx.
+It should sit atop vulkan and apply to raster graphics if not the larger interfaces API.
+
+It should simplify all common tasks in rendering orthographic and 3D applications while providing a solid API to build upon for everything else.
+And it should also do this by encapsulating and binding other modules.

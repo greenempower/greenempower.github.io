@@ -1,0 +1,133 @@
+# modpack for Minecraft 1.12.2 Forge
+# 1.16.5 update held back by Pixelmon, Thaumcraft and Flan's Mod
+# all mods are downloaded from curseforge
+
+# server plugins
+
+# core mods
+LibVulpes
+ConnectedTexturesMod
+Mantle
+AutoRegLib
+Reborn Core
+Guide-API
+Baubles
+WanionLib
+
+# common
+Pixelmon Reforged: 8.3.6            # critical
+Mekanism                            # critical
+Thaumcraft                          # semi-critical
+Flan's Mod                          # semi-critical
+Applied Energistics 2: rv6-stable-7 # important
+Draconic Evolution: 2.3.28.354      # important
+Tinkers Construct: 2.13.0.183       # important
+CC Tweaked                          # important
+Compact Machines                    # important
+Advanced Rocketry                   # important
+Steve's Carts Reborn                # important
+Quark: r1.6-179                     # qof (quality of life)
+Doggy Talents                       # qof
+Apotheosis                          # unsure
+
+# world gen
+Oh The Biomes You'll Go
+
+# farming
+Pam's HarvestCraft
+
+# compat
+UniDict
+
+# dimensions
+Twilight Forest
+The Aether
+
+# expansion
+MineColonies
+Blood Magic
+
+# extra
+Chisel: 1.0.2.45
+Mystical Agriculture
+Traveler's Backpack
+Inventory Pets
+
+
+# client only
+Optifine
+Just Enough Items: 4.16.1.302
+Essential Mod
+
+# notes:
+# - mekanism already implements nuclear reactors
+# - should add a space mod
+# - still need a solid world gen mod (candidates: OTG, Traverse Reforged, Oh The Biomes You'll Go, Environmental, )
+# - transportation mods
+# - possibly add Mystcraft but that's resource intensive on the server
+# - add a unified ore dictionary
+# - maybe add Forestry
+# - add a mobs mod
+# - one or two farming mods
+# - gun/war mod (Flan's Mod) with Communist pack.
+# - a navigation mod
+# - so I'm not intent on adding Mystcraft. instead I'll have a few dimensions via other mods
+# - potential mod for wolves and horses... (candidates: Wolf Armor and Storage Legacy, Doggy Talents, )
+# - add a seasons mod (candidates: Serene Seasons, )
+# - too bad Reika's mods aren't updated :( (should find alternatives to ChromatiCraft, GeoStrata and RotaryCraft)
+# - maybe add a redstone mod for easier building of redstone computers and other structures
+
+# likely candidates:
+# - Sulfuric, HeIium, Magnesium, 
+# - 
+
+# considering:
+# - Modular Powersuits
+# - Baubles
+# - Lycanites Mobs
+# - Lycanites Redux (resource pack)
+# - Rustic
+# - Forestry
+# - Immersive Engineering
+# - Tetra
+# - Transport
+# - YUNG's Better Caves
+# - Alchemistry
+# - Construct's Armory
+# - Hatchery
+# - Reliquary
+# - Underground Biomes
+# - Project Intelligence
+# - Thaumic Augmentation
+
+# client:
+# - BetterF3
+# - Dynamic Surroundings
+
+# keeping in mind:
+# - Vampirism - Become a vampire!
+# - AbyssalCraft
+# - AstikorCarts [Horse Carts]
+# - Aquaculture 2
+# - BetterNether
+# - BountifulBaubles (but Modular Powersuites already provides armor)
+# - Botanical Machinery (not for 1.12.2)
+# - Weather, Storms & Tornadoes
+
+# other:
+# - Advanced Peripherals (CC)
+# - Chunk Loaders (but too expensive for the server)
+# - Energy Converters
+
+# performance:
+# - FoamFix
+# - Performant
+# - Phosphor (Forge) (client)
+# - FerriteCore (Forge)
+# - Magnesium (client, not 1.12.2)
+# - RoadRunner (not for 1.12.2)
+# - Sulfuric (not 1.12.2)
+
+# expansion:
+# - The Endergetic Expansion (not 1.12.2)
+# - Nether Expansion (not 1.12.2)

@@ -17,6 +17,7 @@ micro-mods so small tweaks don't incure much overhead,
 fabrication system (3D Printing mods, Compact Machines, Inventory Pets+Thaumcraft Magic),
 a slightly more advanced physics system (more to elaborate),
 a slightly more intricate world with smaller blocks,
+there should be a system for making dynamic multiblock entities,
 a more advanced inventory system that doesn't assume huge pockets,
 geoscience closer to real earth science,
 a foundation for more engrossing agriculture and farming

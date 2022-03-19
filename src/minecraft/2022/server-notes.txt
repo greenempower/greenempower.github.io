@@ -1,0 +1,5 @@
+I'm going to model this server after one Zexyzek created when I was a kid.
+
+The players can have a skyplot allocated to them.
+
+There are hubs for mining and social events.

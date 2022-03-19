@@ -28,3 +28,8 @@ system architecture {
 }
 
 lots of managed object (/file) metadata
+
+maybe the system layout should be:
+- a Linux kernel (passed with -kernel)
+- an initram file system (passed with -initrd)
+- gemx system on a specially formated disk image (passed as a drive or usb)

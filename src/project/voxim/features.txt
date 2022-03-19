@@ -1,0 +1,1 @@
+- resources generally shouldn't be created or destroyed

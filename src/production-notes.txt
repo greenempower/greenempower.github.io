@@ -5,3 +5,8 @@ I'm imagining a more productive mesh editor since modeling a cube from scratch i
 ---
 and there should be a GEM compile system likely written in Python
 ---
+
+---
+I should beginning working on a 'gfxmod' system. It should define a broad and easy graphics interface for GEM projects.
+Specifically I would like it be capable enough the render the Voxim project.
+---

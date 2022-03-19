@@ -1,0 +1,4 @@
+DRAFT app.gemos.org SYSTEM
+
+a version of GEMx will be hosted at app.gemos.org
+it will be compiled to run in the browser potentially with some modifications to the browser context

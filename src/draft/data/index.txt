@@ -1,0 +1,10 @@
+GEM OS INFRASTRUCTURE DATA INITIATIVE
+
+the GEM project should interest itself in the field of datascience for the utility of search, compression and other services
+
+this is an infrastructure project to develop web crawlers and other models
+
+ref:
+- https://searx.github.io/searx/
+- https://www.argosopentech.com/
+- https://docs.jina.ai/

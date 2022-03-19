@@ -1,0 +1,16 @@
+GEM SYSTEM PROJECT
+
+GEMSYS is just the code name for this until I buy the final domain.
+
+I am developing a broad computing system with several layers,
+the bottom level root layer is currently called V or GEMv.
+It is simply a minimal yocto built root image with kernel, filesystem and only the libraries needed to run the next layer and additionally some basic utilities for a fallback environment.
+
+The higher layer is the X layer or GEMx. It is a special process that creates and exposes the environment and it's interfaces.
+The environment is characterized by it's interfaces and specifically it's registry which holds all data.
+
+But honestly more importantly to this project than technical implementation is the larger mission so I'll say that.
+
+Personally and immediately GEMSYS serves as system to accelerate all my immediate work reguarding simulation, visualization, design, engineering, art, study, networking and development.
+
+But a larger goal of GEMSYS is to create a more capable and accessable environment that everyone can use and enjoy. It should be to challenge the big tech/state hegemony and capitalism broadly through licensing and other leveraging of the system.

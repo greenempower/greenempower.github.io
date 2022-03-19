@@ -84,3 +84,52 @@ revisions and versions of each object and function should be tracked
 ---
 GEMx must have a proper Python installation and system because otherwise it is totally broken.
 ---
+
+---
+there should be a specialized social hub at the registry domain
+some basic features should be:
+- profiles
+- pages
+- funding service
+- media
+- documents
+- rugged blogging
+- connections
+- meetings
+- forms
+- email
+- groups
+- messaging
+- integrations
+
+and there should be a system for guaranteeing security as required
+---
+
+---
+a new currency,
+a simple and more efficient thing,
+emphasising semi-personal relationships and federation rather than a trustless mono-record
+---
+
+---
+super-kernel,
+the super-kernel should be implemented in the GEMx system as the beginning of a standalone kernel.
+It should be invoked by init and it should begin to implement the macro features of an eventual GEM kernel such as managing GEMx specific modules such as storage and registry.
+A transition should see a growth of features at this layer and a dissabling of ffeatures at the Linux kernel under-layer.
+---
+
+---
+So to what extent should there be a GEM Browser?
+
+That is a major task to implement a new engine although there are some alt(non-corporate) engines to work from.
+
+And a repackage is potentially worthwhile under some conditions.
+---
+
+---
+a system which encapsulates centralized services onto a decentralized network (installed on server or personal node)
+---
+
+---
+a marketing suite so that I can efficiently create marketable graphics and items for different GEM products
+---

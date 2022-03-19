@@ -1,0 +1,11 @@
+GEMx Semi-graphical Interface
+
+I have been writting about the semi-graphical interface system...
+Essentially it defines a streaming console which has the characteristics of an ssh session and vnc.
+
+It may actually be similar the an HTML server with text&tags, compressed graphics, vectors, keyboard and mouse interacton, etc...
+
+---
+a file format that is a synthesis of the gif compact image and animation format and of vector graphics with curves, text, gradients, textures, etc
+I'd like to store the portraits and head shots on greenempower.org in this format and use it in the streaming console project so that I can get something that looks nice and that is more compressable and pleasant to work with than a jpeg
+---

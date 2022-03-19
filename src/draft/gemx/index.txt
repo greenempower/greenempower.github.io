@@ -1,0 +1,16 @@
+GEMx DRAFT
+
+this is a subset of current GEMx related material
+
+there should be several platform targets for GEMx apps,
+possibly:
+- vanilla browser
+- modified browser
+- mobile
+- virtualized
+
+like in Python the platform can be query'd and the app can respond to that at run time
+
+
+a full dev suite shouldn't be integrated into the X layer,
+instead the X layer should provide an advanced and productive environment for working with the native script and tools and additionally a basic root console

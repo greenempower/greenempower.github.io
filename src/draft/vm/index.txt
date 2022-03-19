@@ -1,0 +1,5 @@
+VM LAYER IN GEMX
+
+The primarily function of the shell kernel is to implement the VM.
+
+The VM simply defines a universal execution environment with every necessary interface to the system.

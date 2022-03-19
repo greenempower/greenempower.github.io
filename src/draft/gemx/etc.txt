@@ -1,0 +1,10 @@
+classes:
+- lexicon
+
+standard fonts:
+- Inter
+
+primary colors (subject to change):
+- GEM Green
+- GEM Pink (maybe GEM Red)
+- GEM Blue
