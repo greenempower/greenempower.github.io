@@ -3,4 +3,6 @@ external/
 log/
 log/lighttpd-error.log
 
+.private/
+
 __pycache__/

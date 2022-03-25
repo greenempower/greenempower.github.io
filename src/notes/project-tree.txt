@@ -1,0 +1,10 @@
+/gem/
+- mods/
+- os -> mods/gemos
+- sites/
+- - greenempower.org
+- - gemos.org
+- - voxim.org
+
+# notes maybe OS should be for just the OS distro
+# then X would be seperate and V would be seperate

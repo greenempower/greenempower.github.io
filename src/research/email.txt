@@ -1,0 +1,6 @@
+--- research/email ---
+
+I am in the process of creating an email server and service.
+
+ref:
+- https://datatracker.ietf.org/doc/html/rfc5322#section-2

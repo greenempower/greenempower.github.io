@@ -1,0 +1,13 @@
+I have the domain gemos.org and the repo gemos.
+
+So far I am trying to develop the V layer and it's tools to a point that it can generate a working system for the browser and embedded context. and so that it can host some sufficiently complex apps.
+
+Initial apps of interest are in the fields of design, simulation, data science and networking.
+
+Initially I may work on a suite of media and CAD related design tools, an initial app may be a video editor as I find that interesting and potentially useful.
+
+And I would like to develop Voxim as an app.
+
+Also initial products should include the types of apps that have the potential to improve the lives of users, specifically where existing offerings aren't available of the basis of cost or usability.
+
+And of course work should be done on the basic virtual environment/VM layer. I have decided that GEMx should use Web Assembly as an official bytecode format for the system. Applicable code (including the code of applications) should be distributed in that format.

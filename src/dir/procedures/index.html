@@ -227,6 +227,9 @@ mimetype.assign = (
 <h3>Configure SSH Deamon</h3>
 <code>sudo ssh-keygen -f /etc/ssh/ssh_host_rsa_key -N '[myverylongpasswordhere]' -b 4096 -t rsa</code>
 
+<h3>forward a port on a remote server to localhost</h3>
+<code>ssh -L local_socket:localhost:hostport user@sshserver.com</code>
+
 <h3>See bound ports</h3>
 <code>lsof -i -P -n | grep LISTEN</code>
 

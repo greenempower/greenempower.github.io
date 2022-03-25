@@ -1,0 +1,18 @@
+--- archival initiative ---
+
+artifacts of interests:
+- RFCs
+- classical books
+- scientific articles
+- text books
+- historical artifacts (such as clips, pictures and texts)
+- memes
+- animes/mangas
+- softwares (ex Linux and git and core libraries)
+- software leaks (such as the Windows XP leak)
+- torrents
+- video games
+- war/crimes
+- leaks (ex from wikileaks)
+- data sheets
+- specs
