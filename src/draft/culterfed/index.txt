@@ -1,0 +1,8 @@
+--- GEM Exchange Federation System ---
+
+There should be a system like a decentralized/federated ebay.
+
+Some seller/buyer or some group of those people can run their own instance like in other federated social media softwares,
+but with the intent of doing b2b exchange.
+
+This is going to be a side project of mine.

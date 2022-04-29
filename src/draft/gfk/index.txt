@@ -1,0 +1,30 @@
+--- GEM Graphics Kernel ---
+
+GFK is a process I am first developing to power graphics rendering in the Voxim game. And eventually it should integrate as the primary graphics module in GEMOS/GEMx.
+
+At it's core GFK should support an application in:
+- initializing context
+- accepting commands
+- sharing buffers
+- executing custom DSL scripts
+And GFX should provide a linkable API for executing in this protocol.
+And as time passes more higher order functionality should be encapsulated by the GEMx registry.
+
+There should be a simple spec of commands including,
+- registring an application and it's components
+- requesting for output buffers and display devices
+- passing buffers in arbitrary or structured formats
+- passing DSL scripts
+- controlling the execution of DSL scripts
+
+DSL scripts should simply be small Lua scripts which can execute against a formal spec of functions and tables.
+Scripts are intended to command graphics rendering or do more general compute.
+
+
+GFK might be written in Rust and/or C++.
+
+Todo:
+- Find a good system for doing IPC.
+
+Ideas:
+- GFK should eventually or initially support WebASM for DSL scripts.
