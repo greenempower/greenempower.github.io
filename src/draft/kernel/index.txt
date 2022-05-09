@@ -16,3 +16,8 @@ e and registry.
 A transition should see a growth of features at this layer and a dissabling of f
 features at the Linux kernel under-layer.
 ---
+
+
+--- update 4/28/22
+I should begin some work on a new kernel maybe in Rust/D/C++.
+It should just run in VM as baremetal with maybe a slightly larger scope than defined earlier.

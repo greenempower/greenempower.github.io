@@ -28,3 +28,10 @@ Todo:
 
 Ideas:
 - GFK should eventually or initially support WebASM for DSL scripts.
+
+
+-- 4/30/22
+this spec is subject to modification.
+
+ref:
+- https://sotrh.github.io/learn-wgpu/beginner

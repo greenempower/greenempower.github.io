@@ -1,0 +1,12 @@
+--- GEM Linga ---
+
+-- 5/9/22
+gem linga is a wip system for studying languages
+specifically by providing a tool for generating tailored ebooks,
+allowing the reader to learn through more realistic texts
+
+and the ebooks should be vocalized so the learner can listen while doing other things such as taking a walk
+
+I had begun work on this some months ago but sadly ran into a road block when I realized that the machine translation models I was working with aren't adequate for the nature of this task since it requires atomization.
+
+So now I am taking more care to this as a lingustics project, but I hope to have a container out with a simple interface that meets the basic requirement of creating spanish/english ebooks before long or after I have time free after finishing with my tefl course in the next couple of months.
