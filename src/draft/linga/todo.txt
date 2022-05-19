@@ -1,0 +1,11 @@
+--- GEM Linga todo ---
+
+1. procure a spanish/english database
+focus on nouns, adjectives and verbs
+create a dictionary which maps them to english
+and find a method for reliably detecting/translating them
+
+2. prepare a catalogue of resoures including written text
+
+spend some time every day studying this
+

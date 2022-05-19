@@ -1,0 +1,19 @@
+5/11/22 project tally
+I am currently interested in continuing voxim, gemos, chronica primarily.
+idx.red still needs to be developed. It needs email and a system for others to register content to it.
+Additional projects:
+- GEM Wallet - integrated crypto wallet(s), staking, trading, assistant.
+- GEM Linga  - language study suite
+- GEM Market - self hosted federated ebay
+
+hardware:
+- GEM Slate - first official device from GEM for gemos
+- GEM Fab   - advanced 3D printing system
+
+5/13/22
+relaxed day,
+should continue work on gemos kernel
+lingtool roadmap
+should start preparing rendering and production infrastructure for 4K OLED workstation, coming in maybe 2 years
+and should flash out GEM more by updating front page
+and I am still trying to get an optimal system for running container environments

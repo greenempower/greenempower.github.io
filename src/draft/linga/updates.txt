@@ -1,0 +1,6 @@
+--- GEM Linga updates ---
+
+trying wrestle with lingtool,
+it needs a consistent guix env,
+it needs a more direct implementation,
+might need to reimplement what argos translate does

@@ -1,0 +1,14 @@
+--- Peer Networking Initiative ---
+There should be a peer based networking infrastructure initiative.
+
+Fundamentally peers should be RF-enabled devices capable of communicating directly by relaying and keeping track of their constituent public keys.
+
+The network should depend on relaying, caching and defered execution.
+
+Users can host web content without worrying about censorship or hostile economics.
+
+The protocol supports each peer having a rich interface for managing content and other peers.
+
+Content can be co-authored by many peers to make it more difficult for powerful entities to cancel individual peers irl.
+
+The protocol should not be economically exploitable (propagate existing inequities) like ethereum is. Resources can be allocated through networks of trust and maybe a simple credit system.
